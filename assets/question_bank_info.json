@@ -1,0 +1,18 @@
+{
+  "exam": "SRC4",
+  "total_questions": 250,
+  "language": "tr",
+  "question_type": "original practice questions, not official past questions",
+  "categories": {
+    "Trafik ve trafik işaretleri": 25,
+    "Güvenli ve ekonomik sürüş": 25,
+    "İlk yardım ve acil durum": 25,
+    "Araç tekniği ve bakım": 25,
+    "Yükleme, istifleme ve yük güvenliği": 25,
+    "Taşıma belgeleri ve mevzuat": 25,
+    "İş sağlığı, güvenliği ve çalışma düzeni": 25,
+    "Gümrük, sigorta ve sorumluluk": 25,
+    "İletişim ve mesleki davranış": 25,
+    "Çevre, enerji ve acil araç uygulamaları": 25
+  }
+}

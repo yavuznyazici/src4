@@ -1,0 +1,3252 @@
+[
+  {
+    "id": 1,
+    "category": "Trafik ve trafik işaretleri",
+    "question": "Kırmızı ışıkta sürücünün yapması gereken nedir?",
+    "options": [
+      "Yavaşlayıp geçmek",
+      "Korna çalarak geçmek",
+      "Yalnızca yaya varsa durmak",
+      "Dur çizgisinde durmak"
+    ],
+    "answer": 3,
+    "explanation": "Kırmızı ışık, aksi yönde bir trafik görevlisi işareti yoksa durmayı gerektirir."
+  },
+  {
+    "id": 2,
+    "category": "Trafik ve trafik işaretleri",
+    "question": "SRC4 sınavına hazırlanan bir sürücü için aşağıdakilerden hangisi doğrudur? kırmızı ışıkta sürücünün yapması gereken nedir?",
+    "options": [
+      "Yalnızca yaya varsa durmak",
+      "Dur çizgisinde durmak",
+      "Yavaşlayıp geçmek",
+      "Korna çalarak geçmek"
+    ],
+    "answer": 1,
+    "explanation": "Kırmızı ışık, aksi yönde bir trafik görevlisi işareti yoksa durmayı gerektirir."
+  },
+  {
+    "id": 3,
+    "category": "Trafik ve trafik işaretleri",
+    "question": "Bir taşıma operasyonunda bu konuyla ilgili en uygun uygulama hangisidir? kırmızı ışıkta sürücünün yapması gereken nedir?",
+    "options": [
+      "Yavaşlayıp geçmek",
+      "Korna çalarak geçmek",
+      "Yalnızca yaya varsa durmak",
+      "Dur çizgisinde durmak"
+    ],
+    "answer": 3,
+    "explanation": "Kırmızı ışık, aksi yönde bir trafik görevlisi işareti yoksa durmayı gerektirir."
+  },
+  {
+    "id": 4,
+    "category": "Trafik ve trafik işaretleri",
+    "question": "Güvenli ve mevzuata uygun taşımacılık açısından hangi seçenek tercih edilmelidir? kırmızı ışıkta sürücünün yapması gereken nedir?",
+    "options": [
+      "Yalnızca yaya varsa durmak",
+      "Dur çizgisinde durmak",
+      "Yavaşlayıp geçmek",
+      "Korna çalarak geçmek"
+    ],
+    "answer": 1,
+    "explanation": "Kırmızı ışık, aksi yönde bir trafik görevlisi işareti yoksa durmayı gerektirir."
+  },
+  {
+    "id": 5,
+    "category": "Trafik ve trafik işaretleri",
+    "question": "Aşağıdaki ifadelerden hangisi doğru kabul edilir? kırmızı ışıkta sürücünün yapması gereken nedir?",
+    "options": [
+      "Yavaşlayıp geçmek",
+      "Korna çalarak geçmek",
+      "Yalnızca yaya varsa durmak",
+      "Dur çizgisinde durmak"
+    ],
+    "answer": 3,
+    "explanation": "Kırmızı ışık, aksi yönde bir trafik görevlisi işareti yoksa durmayı gerektirir."
+  },
+  {
+    "id": 6,
+    "category": "Trafik ve trafik işaretleri",
+    "question": "Kontrolsüz kavşakta geçiş hakkı genel olarak hangi araca aittir?",
+    "options": [
+      "Hızı yüksek olana",
+      "Büyük araca",
+      "Sağdan gelen araca",
+      "Soldan gelen araca"
+    ],
+    "answer": 2,
+    "explanation": "Aksi bir işaret veya kural yoksa kontrolsüz kavşakta sağdan gelen araca ilk geçiş hakkı verilir."
+  },
+  {
+    "id": 7,
+    "category": "Trafik ve trafik işaretleri",
+    "question": "SRC4 sınavına hazırlanan bir sürücü için aşağıdakilerden hangisi doğrudur? kontrolsüz kavşakta geçiş hakkı genel olarak hangi araca aittir?",
+    "options": [
+      "Sağdan gelen araca",
+      "Soldan gelen araca",
+      "Hızı yüksek olana",
+      "Büyük araca"
+    ],
+    "answer": 0,
+    "explanation": "Aksi bir işaret veya kural yoksa kontrolsüz kavşakta sağdan gelen araca ilk geçiş hakkı verilir."
+  },
+  {
+    "id": 8,
+    "category": "Trafik ve trafik işaretleri",
+    "question": "Bir taşıma operasyonunda bu konuyla ilgili en uygun uygulama hangisidir? kontrolsüz kavşakta geçiş hakkı genel olarak hangi araca aittir?",
+    "options": [
+      "Hızı yüksek olana",
+      "Büyük araca",
+      "Sağdan gelen araca",
+      "Soldan gelen araca"
+    ],
+    "answer": 2,
+    "explanation": "Aksi bir işaret veya kural yoksa kontrolsüz kavşakta sağdan gelen araca ilk geçiş hakkı verilir."
+  },
+  {
+    "id": 9,
+    "category": "Trafik ve trafik işaretleri",
+    "question": "Güvenli ve mevzuata uygun taşımacılık açısından hangi seçenek tercih edilmelidir? kontrolsüz kavşakta geçiş hakkı genel olarak hangi araca aittir?",
+    "options": [
+      "Sağdan gelen araca",
+      "Soldan gelen araca",
+      "Hızı yüksek olana",
+      "Büyük araca"
+    ],
+    "answer": 0,
+    "explanation": "Aksi bir işaret veya kural yoksa kontrolsüz kavşakta sağdan gelen araca ilk geçiş hakkı verilir."
+  },
+  {
+    "id": 10,
+    "category": "Trafik ve trafik işaretleri",
+    "question": "Aşağıdaki ifadelerden hangisi doğru kabul edilir? kontrolsüz kavşakta geçiş hakkı genel olarak hangi araca aittir?",
+    "options": [
+      "Hızı yüksek olana",
+      "Büyük araca",
+      "Sağdan gelen araca",
+      "Soldan gelen araca"
+    ],
+    "answer": 2,
+    "explanation": "Aksi bir işaret veya kural yoksa kontrolsüz kavşakta sağdan gelen araca ilk geçiş hakkı verilir."
+  },
+  {
+    "id": 11,
+    "category": "Trafik ve trafik işaretleri",
+    "question": "Takip mesafesi hangi temel ölçüte göre ayarlanmalıdır?",
+    "options": [
+      "Yalnızca yükün cinsine",
+      "Hız ve yol koşullarına",
+      "Yalnızca aracın rengine",
+      "Sadece motor hacmine"
+    ],
+    "answer": 1,
+    "explanation": "Takip mesafesi hız, görüş, yol ve hava koşullarına göre artırılmalıdır."
+  },
+  {
+    "id": 12,
+    "category": "Trafik ve trafik işaretleri",
+    "question": "SRC4 sınavına hazırlanan bir sürücü için aşağıdakilerden hangisi doğrudur? takip mesafesi hangi temel ölçüte göre ayarlanmalıdır?",
+    "options": [
+      "Yalnızca aracın rengine",
+      "Sadece motor hacmine",
+      "Yalnızca yükün cinsine",
+      "Hız ve yol koşullarına"
+    ],
+    "answer": 3,
+    "explanation": "Takip mesafesi hız, görüş, yol ve hava koşullarına göre artırılmalıdır."
+  },
+  {
+    "id": 13,
+    "category": "Trafik ve trafik işaretleri",
+    "question": "Bir taşıma operasyonunda bu konuyla ilgili en uygun uygulama hangisidir? takip mesafesi hangi temel ölçüte göre ayarlanmalıdır?",
+    "options": [
+      "Yalnızca yükün cinsine",
+      "Hız ve yol koşullarına",
+      "Yalnızca aracın rengine",
+      "Sadece motor hacmine"
+    ],
+    "answer": 1,
+    "explanation": "Takip mesafesi hız, görüş, yol ve hava koşullarına göre artırılmalıdır."
+  },
+  {
+    "id": 14,
+    "category": "Trafik ve trafik işaretleri",
+    "question": "Güvenli ve mevzuata uygun taşımacılık açısından hangi seçenek tercih edilmelidir? takip mesafesi hangi temel ölçüte göre ayarlanmalıdır?",
+    "options": [
+      "Yalnızca aracın rengine",
+      "Sadece motor hacmine",
+      "Yalnızca yükün cinsine",
+      "Hız ve yol koşullarına"
+    ],
+    "answer": 3,
+    "explanation": "Takip mesafesi hız, görüş, yol ve hava koşullarına göre artırılmalıdır."
+  },
+  {
+    "id": 15,
+    "category": "Trafik ve trafik işaretleri",
+    "question": "Aşağıdaki ifadelerden hangisi doğru kabul edilir? takip mesafesi hangi temel ölçüte göre ayarlanmalıdır?",
+    "options": [
+      "Yalnızca yükün cinsine",
+      "Hız ve yol koşullarına",
+      "Yalnızca aracın rengine",
+      "Sadece motor hacmine"
+    ],
+    "answer": 1,
+    "explanation": "Takip mesafesi hız, görüş, yol ve hava koşullarına göre artırılmalıdır."
+  },
+  {
+    "id": 16,
+    "category": "Trafik ve trafik işaretleri",
+    "question": "Sarı ışık yandığında güvenli şekilde durabilecek sürücü ne yapmalıdır?",
+    "options": [
+      "Durmalıdır",
+      "Hızlanmalıdır",
+      "Ani şerit değiştirmelidir",
+      "Geri gitmelidir"
+    ],
+    "answer": 0,
+    "explanation": "Sarı ışık, güvenli duruş mümkünse durmaya hazırlanmayı ve durmayı ifade eder."
+  },
+  {
+    "id": 17,
+    "category": "Trafik ve trafik işaretleri",
+    "question": "SRC4 sınavına hazırlanan bir sürücü için aşağıdakilerden hangisi doğrudur? sarı ışık yandığında güvenli şekilde durabilecek sürücü ne yapmalıdır?",
+    "options": [
+      "Ani şerit değiştirmelidir",
+      "Geri gitmelidir",
+      "Durmalıdır",
+      "Hızlanmalıdır"
+    ],
+    "answer": 2,
+    "explanation": "Sarı ışık, güvenli duruş mümkünse durmaya hazırlanmayı ve durmayı ifade eder."
+  },
+  {
+    "id": 18,
+    "category": "Trafik ve trafik işaretleri",
+    "question": "Bir taşıma operasyonunda bu konuyla ilgili en uygun uygulama hangisidir? sarı ışık yandığında güvenli şekilde durabilecek sürücü ne yapmalıdır?",
+    "options": [
+      "Durmalıdır",
+      "Hızlanmalıdır",
+      "Ani şerit değiştirmelidir",
+      "Geri gitmelidir"
+    ],
+    "answer": 0,
+    "explanation": "Sarı ışık, güvenli duruş mümkünse durmaya hazırlanmayı ve durmayı ifade eder."
+  },
+  {
+    "id": 19,
+    "category": "Trafik ve trafik işaretleri",
+    "question": "Güvenli ve mevzuata uygun taşımacılık açısından hangi seçenek tercih edilmelidir? sarı ışık yandığında güvenli şekilde durabilecek sürücü ne yapmalıdır?",
+    "options": [
+      "Ani şerit değiştirmelidir",
+      "Geri gitmelidir",
+      "Durmalıdır",
+      "Hızlanmalıdır"
+    ],
+    "answer": 2,
+    "explanation": "Sarı ışık, güvenli duruş mümkünse durmaya hazırlanmayı ve durmayı ifade eder."
+  },
+  {
+    "id": 20,
+    "category": "Trafik ve trafik işaretleri",
+    "question": "Aşağıdaki ifadelerden hangisi doğru kabul edilir? sarı ışık yandığında güvenli şekilde durabilecek sürücü ne yapmalıdır?",
+    "options": [
+      "Durmalıdır",
+      "Hızlanmalıdır",
+      "Ani şerit değiştirmelidir",
+      "Geri gitmelidir"
+    ],
+    "answer": 0,
+    "explanation": "Sarı ışık, güvenli duruş mümkünse durmaya hazırlanmayı ve durmayı ifade eder."
+  },
+  {
+    "id": 21,
+    "category": "Trafik ve trafik işaretleri",
+    "question": "Trafik işaret levhalarının temel amacı nedir?",
+    "options": [
+      "Araçların yakıtını azaltmak",
+      "Sürücü belgesi vermek",
+      "Yük ağırlığını ölçmek",
+      "Trafiği düzenlemek ve yol kullanıcılarını uyarmak"
+    ],
+    "answer": 3,
+    "explanation": "İşaretler yasaklama, bilgilendirme, yönlendirme ve tehlike uyarısı sağlar."
+  },
+  {
+    "id": 22,
+    "category": "Trafik ve trafik işaretleri",
+    "question": "SRC4 sınavına hazırlanan bir sürücü için aşağıdakilerden hangisi doğrudur? trafik işaret levhalarının temel amacı nedir?",
+    "options": [
+      "Yük ağırlığını ölçmek",
+      "Trafiği düzenlemek ve yol kullanıcılarını uyarmak",
+      "Araçların yakıtını azaltmak",
+      "Sürücü belgesi vermek"
+    ],
+    "answer": 1,
+    "explanation": "İşaretler yasaklama, bilgilendirme, yönlendirme ve tehlike uyarısı sağlar."
+  },
+  {
+    "id": 23,
+    "category": "Trafik ve trafik işaretleri",
+    "question": "Bir taşıma operasyonunda bu konuyla ilgili en uygun uygulama hangisidir? trafik işaret levhalarının temel amacı nedir?",
+    "options": [
+      "Araçların yakıtını azaltmak",
+      "Sürücü belgesi vermek",
+      "Yük ağırlığını ölçmek",
+      "Trafiği düzenlemek ve yol kullanıcılarını uyarmak"
+    ],
+    "answer": 3,
+    "explanation": "İşaretler yasaklama, bilgilendirme, yönlendirme ve tehlike uyarısı sağlar."
+  },
+  {
+    "id": 24,
+    "category": "Trafik ve trafik işaretleri",
+    "question": "Güvenli ve mevzuata uygun taşımacılık açısından hangi seçenek tercih edilmelidir? trafik işaret levhalarının temel amacı nedir?",
+    "options": [
+      "Yük ağırlığını ölçmek",
+      "Trafiği düzenlemek ve yol kullanıcılarını uyarmak",
+      "Araçların yakıtını azaltmak",
+      "Sürücü belgesi vermek"
+    ],
+    "answer": 1,
+    "explanation": "İşaretler yasaklama, bilgilendirme, yönlendirme ve tehlike uyarısı sağlar."
+  },
+  {
+    "id": 25,
+    "category": "Trafik ve trafik işaretleri",
+    "question": "Aşağıdaki ifadelerden hangisi doğru kabul edilir? trafik işaret levhalarının temel amacı nedir?",
+    "options": [
+      "Araçların yakıtını azaltmak",
+      "Sürücü belgesi vermek",
+      "Yük ağırlığını ölçmek",
+      "Trafiği düzenlemek ve yol kullanıcılarını uyarmak"
+    ],
+    "answer": 3,
+    "explanation": "İşaretler yasaklama, bilgilendirme, yönlendirme ve tehlike uyarısı sağlar."
+  },
+  {
+    "id": 26,
+    "category": "Güvenli ve ekonomik sürüş",
+    "question": "Uzun inişlerde sürekli ayak freni kullanmak hangi riski artırır?",
+    "options": [
+      "Motor yağının donmasını",
+      "Direksiyon kilidini",
+      "Frenlerin aşırı ısınmasını",
+      "Lastik basıncının yükselmesini"
+    ],
+    "answer": 2,
+    "explanation": "Sürekli frenleme frenlerin ısınmasına ve fren etkinliğinin azalmasına yol açabilir; uygun düşük vites ve motor freni kullanılmalıdır."
+  },
+  {
+    "id": 27,
+    "category": "Güvenli ve ekonomik sürüş",
+    "question": "SRC4 sınavına hazırlanan bir sürücü için aşağıdakilerden hangisi doğrudur? uzun inişlerde sürekli ayak freni kullanmak hangi riski artırır?",
+    "options": [
+      "Frenlerin aşırı ısınmasını",
+      "Lastik basıncının yükselmesini",
+      "Motor yağının donmasını",
+      "Direksiyon kilidini"
+    ],
+    "answer": 0,
+    "explanation": "Sürekli frenleme frenlerin ısınmasına ve fren etkinliğinin azalmasına yol açabilir; uygun düşük vites ve motor freni kullanılmalıdır."
+  },
+  {
+    "id": 28,
+    "category": "Güvenli ve ekonomik sürüş",
+    "question": "Bir taşıma operasyonunda bu konuyla ilgili en uygun uygulama hangisidir? uzun inişlerde sürekli ayak freni kullanmak hangi riski artırır?",
+    "options": [
+      "Motor yağının donmasını",
+      "Direksiyon kilidini",
+      "Frenlerin aşırı ısınmasını",
+      "Lastik basıncının yükselmesini"
+    ],
+    "answer": 2,
+    "explanation": "Sürekli frenleme frenlerin ısınmasına ve fren etkinliğinin azalmasına yol açabilir; uygun düşük vites ve motor freni kullanılmalıdır."
+  },
+  {
+    "id": 29,
+    "category": "Güvenli ve ekonomik sürüş",
+    "question": "Güvenli ve mevzuata uygun taşımacılık açısından hangi seçenek tercih edilmelidir? uzun inişlerde sürekli ayak freni kullanmak hangi riski artırır?",
+    "options": [
+      "Frenlerin aşırı ısınmasını",
+      "Lastik basıncının yükselmesini",
+      "Motor yağının donmasını",
+      "Direksiyon kilidini"
+    ],
+    "answer": 0,
+    "explanation": "Sürekli frenleme frenlerin ısınmasına ve fren etkinliğinin azalmasına yol açabilir; uygun düşük vites ve motor freni kullanılmalıdır."
+  },
+  {
+    "id": 30,
+    "category": "Güvenli ve ekonomik sürüş",
+    "question": "Aşağıdaki ifadelerden hangisi doğru kabul edilir? uzun inişlerde sürekli ayak freni kullanmak hangi riski artırır?",
+    "options": [
+      "Motor yağının donmasını",
+      "Direksiyon kilidini",
+      "Frenlerin aşırı ısınmasını",
+      "Lastik basıncının yükselmesini"
+    ],
+    "answer": 2,
+    "explanation": "Sürekli frenleme frenlerin ısınmasına ve fren etkinliğinin azalmasına yol açabilir; uygun düşük vites ve motor freni kullanılmalıdır."
+  },
+  {
+    "id": 31,
+    "category": "Güvenli ve ekonomik sürüş",
+    "question": "Islak zeminde durma mesafesi nasıl değişir?",
+    "options": [
+      "Sıfıra iner",
+      "Genellikle uzar",
+      "Her zaman kısalır",
+      "Değişmez"
+    ],
+    "answer": 1,
+    "explanation": "Islak zeminde yol tutuşu azalır; hız düşürülmeli ve takip mesafesi artırılmalıdır."
+  },
+  {
+    "id": 32,
+    "category": "Güvenli ve ekonomik sürüş",
+    "question": "SRC4 sınavına hazırlanan bir sürücü için aşağıdakilerden hangisi doğrudur? islak zeminde durma mesafesi nasıl değişir?",
+    "options": [
+      "Her zaman kısalır",
+      "Değişmez",
+      "Sıfıra iner",
+      "Genellikle uzar"
+    ],
+    "answer": 3,
+    "explanation": "Islak zeminde yol tutuşu azalır; hız düşürülmeli ve takip mesafesi artırılmalıdır."
+  },
+  {
+    "id": 33,
+    "category": "Güvenli ve ekonomik sürüş",
+    "question": "Bir taşıma operasyonunda bu konuyla ilgili en uygun uygulama hangisidir? islak zeminde durma mesafesi nasıl değişir?",
+    "options": [
+      "Sıfıra iner",
+      "Genellikle uzar",
+      "Her zaman kısalır",
+      "Değişmez"
+    ],
+    "answer": 1,
+    "explanation": "Islak zeminde yol tutuşu azalır; hız düşürülmeli ve takip mesafesi artırılmalıdır."
+  },
+  {
+    "id": 34,
+    "category": "Güvenli ve ekonomik sürüş",
+    "question": "Güvenli ve mevzuata uygun taşımacılık açısından hangi seçenek tercih edilmelidir? islak zeminde durma mesafesi nasıl değişir?",
+    "options": [
+      "Her zaman kısalır",
+      "Değişmez",
+      "Sıfıra iner",
+      "Genellikle uzar"
+    ],
+    "answer": 3,
+    "explanation": "Islak zeminde yol tutuşu azalır; hız düşürülmeli ve takip mesafesi artırılmalıdır."
+  },
+  {
+    "id": 35,
+    "category": "Güvenli ve ekonomik sürüş",
+    "question": "Aşağıdaki ifadelerden hangisi doğru kabul edilir? islak zeminde durma mesafesi nasıl değişir?",
+    "options": [
+      "Sıfıra iner",
+      "Genellikle uzar",
+      "Her zaman kısalır",
+      "Değişmez"
+    ],
+    "answer": 1,
+    "explanation": "Islak zeminde yol tutuşu azalır; hız düşürülmeli ve takip mesafesi artırılmalıdır."
+  },
+  {
+    "id": 36,
+    "category": "Güvenli ve ekonomik sürüş",
+    "question": "Ekonomik sürüş için en uygun yaklaşım hangisidir?",
+    "options": [
+      "Ani hızlanma ve sert frenlerden kaçınmak",
+      "Sürekli yüksek devirde kullanmak",
+      "Gereksiz rölantide beklemek",
+      "Lastikleri düşük basınçta tutmak"
+    ],
+    "answer": 0,
+    "explanation": "Akıcı sürüş, uygun vites ve doğru lastik basıncı yakıt tüketimini azaltır."
+  },
+  {
+    "id": 37,
+    "category": "Güvenli ve ekonomik sürüş",
+    "question": "SRC4 sınavına hazırlanan bir sürücü için aşağıdakilerden hangisi doğrudur? ekonomik sürüş için en uygun yaklaşım hangisidir?",
+    "options": [
+      "Gereksiz rölantide beklemek",
+      "Lastikleri düşük basınçta tutmak",
+      "Ani hızlanma ve sert frenlerden kaçınmak",
+      "Sürekli yüksek devirde kullanmak"
+    ],
+    "answer": 2,
+    "explanation": "Akıcı sürüş, uygun vites ve doğru lastik basıncı yakıt tüketimini azaltır."
+  },
+  {
+    "id": 38,
+    "category": "Güvenli ve ekonomik sürüş",
+    "question": "Bir taşıma operasyonunda bu konuyla ilgili en uygun uygulama hangisidir? ekonomik sürüş için en uygun yaklaşım hangisidir?",
+    "options": [
+      "Ani hızlanma ve sert frenlerden kaçınmak",
+      "Sürekli yüksek devirde kullanmak",
+      "Gereksiz rölantide beklemek",
+      "Lastikleri düşük basınçta tutmak"
+    ],
+    "answer": 0,
+    "explanation": "Akıcı sürüş, uygun vites ve doğru lastik basıncı yakıt tüketimini azaltır."
+  },
+  {
+    "id": 39,
+    "category": "Güvenli ve ekonomik sürüş",
+    "question": "Güvenli ve mevzuata uygun taşımacılık açısından hangi seçenek tercih edilmelidir? ekonomik sürüş için en uygun yaklaşım hangisidir?",
+    "options": [
+      "Gereksiz rölantide beklemek",
+      "Lastikleri düşük basınçta tutmak",
+      "Ani hızlanma ve sert frenlerden kaçınmak",
+      "Sürekli yüksek devirde kullanmak"
+    ],
+    "answer": 2,
+    "explanation": "Akıcı sürüş, uygun vites ve doğru lastik basıncı yakıt tüketimini azaltır."
+  },
+  {
+    "id": 40,
+    "category": "Güvenli ve ekonomik sürüş",
+    "question": "Aşağıdaki ifadelerden hangisi doğru kabul edilir? ekonomik sürüş için en uygun yaklaşım hangisidir?",
+    "options": [
+      "Ani hızlanma ve sert frenlerden kaçınmak",
+      "Sürekli yüksek devirde kullanmak",
+      "Gereksiz rölantide beklemek",
+      "Lastikleri düşük basınçta tutmak"
+    ],
+    "answer": 0,
+    "explanation": "Akıcı sürüş, uygun vites ve doğru lastik basıncı yakıt tüketimini azaltır."
+  },
+  {
+    "id": 41,
+    "category": "Güvenli ve ekonomik sürüş",
+    "question": "Araçta savrulma başladığında ilk amaç ne olmalıdır?",
+    "options": [
+      "El frenini aniden çekmek",
+      "Gaza sonuna kadar basmak",
+      "Kontaksız bırakmak",
+      "Panik hareketlerden kaçınıp direksiyon ve hız kontrolünü korumak"
+    ],
+    "answer": 3,
+    "explanation": "Ani fren ve direksiyon hareketleri kontrol kaybını artırabilir; araç ve koşullara uygun, yumuşak müdahale gerekir."
+  },
+  {
+    "id": 42,
+    "category": "Güvenli ve ekonomik sürüş",
+    "question": "SRC4 sınavına hazırlanan bir sürücü için aşağıdakilerden hangisi doğrudur? araçta savrulma başladığında ilk amaç ne olmalıdır?",
+    "options": [
+      "Kontaksız bırakmak",
+      "Panik hareketlerden kaçınıp direksiyon ve hız kontrolünü korumak",
+      "El frenini aniden çekmek",
+      "Gaza sonuna kadar basmak"
+    ],
+    "answer": 1,
+    "explanation": "Ani fren ve direksiyon hareketleri kontrol kaybını artırabilir; araç ve koşullara uygun, yumuşak müdahale gerekir."
+  },
+  {
+    "id": 43,
+    "category": "Güvenli ve ekonomik sürüş",
+    "question": "Bir taşıma operasyonunda bu konuyla ilgili en uygun uygulama hangisidir? araçta savrulma başladığında ilk amaç ne olmalıdır?",
+    "options": [
+      "El frenini aniden çekmek",
+      "Gaza sonuna kadar basmak",
+      "Kontaksız bırakmak",
+      "Panik hareketlerden kaçınıp direksiyon ve hız kontrolünü korumak"
+    ],
+    "answer": 3,
+    "explanation": "Ani fren ve direksiyon hareketleri kontrol kaybını artırabilir; araç ve koşullara uygun, yumuşak müdahale gerekir."
+  },
+  {
+    "id": 44,
+    "category": "Güvenli ve ekonomik sürüş",
+    "question": "Güvenli ve mevzuata uygun taşımacılık açısından hangi seçenek tercih edilmelidir? araçta savrulma başladığında ilk amaç ne olmalıdır?",
+    "options": [
+      "Kontaksız bırakmak",
+      "Panik hareketlerden kaçınıp direksiyon ve hız kontrolünü korumak",
+      "El frenini aniden çekmek",
+      "Gaza sonuna kadar basmak"
+    ],
+    "answer": 1,
+    "explanation": "Ani fren ve direksiyon hareketleri kontrol kaybını artırabilir; araç ve koşullara uygun, yumuşak müdahale gerekir."
+  },
+  {
+    "id": 45,
+    "category": "Güvenli ve ekonomik sürüş",
+    "question": "Aşağıdaki ifadelerden hangisi doğru kabul edilir? araçta savrulma başladığında ilk amaç ne olmalıdır?",
+    "options": [
+      "El frenini aniden çekmek",
+      "Gaza sonuna kadar basmak",
+      "Kontaksız bırakmak",
+      "Panik hareketlerden kaçınıp direksiyon ve hız kontrolünü korumak"
+    ],
+    "answer": 3,
+    "explanation": "Ani fren ve direksiyon hareketleri kontrol kaybını artırabilir; araç ve koşullara uygun, yumuşak müdahale gerekir."
+  },
+  {
+    "id": 46,
+    "category": "Güvenli ve ekonomik sürüş",
+    "question": "Sürüş öncesi lastik kontrolünde hangisi önemlidir?",
+    "options": [
+      "Jantın rengi",
+      "Aracın müzik sistemi",
+      "Üreticinin önerdiği basınç ve diş derinliği",
+      "Yalnızca lastiğin markası"
+    ],
+    "answer": 2,
+    "explanation": "Doğru basınç, hasarsız lastik ve yeterli diş derinliği güvenli sürüş için gereklidir."
+  },
+  {
+    "id": 47,
+    "category": "Güvenli ve ekonomik sürüş",
+    "question": "SRC4 sınavına hazırlanan bir sürücü için aşağıdakilerden hangisi doğrudur? sürüş öncesi lastik kontrolünde hangisi önemlidir?",
+    "options": [
+      "Üreticinin önerdiği basınç ve diş derinliği",
+      "Yalnızca lastiğin markası",
+      "Jantın rengi",
+      "Aracın müzik sistemi"
+    ],
+    "answer": 0,
+    "explanation": "Doğru basınç, hasarsız lastik ve yeterli diş derinliği güvenli sürüş için gereklidir."
+  },
+  {
+    "id": 48,
+    "category": "Güvenli ve ekonomik sürüş",
+    "question": "Bir taşıma operasyonunda bu konuyla ilgili en uygun uygulama hangisidir? sürüş öncesi lastik kontrolünde hangisi önemlidir?",
+    "options": [
+      "Jantın rengi",
+      "Aracın müzik sistemi",
+      "Üreticinin önerdiği basınç ve diş derinliği",
+      "Yalnızca lastiğin markası"
+    ],
+    "answer": 2,
+    "explanation": "Doğru basınç, hasarsız lastik ve yeterli diş derinliği güvenli sürüş için gereklidir."
+  },
+  {
+    "id": 49,
+    "category": "Güvenli ve ekonomik sürüş",
+    "question": "Güvenli ve mevzuata uygun taşımacılık açısından hangi seçenek tercih edilmelidir? sürüş öncesi lastik kontrolünde hangisi önemlidir?",
+    "options": [
+      "Üreticinin önerdiği basınç ve diş derinliği",
+      "Yalnızca lastiğin markası",
+      "Jantın rengi",
+      "Aracın müzik sistemi"
+    ],
+    "answer": 0,
+    "explanation": "Doğru basınç, hasarsız lastik ve yeterli diş derinliği güvenli sürüş için gereklidir."
+  },
+  {
+    "id": 50,
+    "category": "Güvenli ve ekonomik sürüş",
+    "question": "Aşağıdaki ifadelerden hangisi doğru kabul edilir? sürüş öncesi lastik kontrolünde hangisi önemlidir?",
+    "options": [
+      "Jantın rengi",
+      "Aracın müzik sistemi",
+      "Üreticinin önerdiği basınç ve diş derinliği",
+      "Yalnızca lastiğin markası"
+    ],
+    "answer": 2,
+    "explanation": "Doğru basınç, hasarsız lastik ve yeterli diş derinliği güvenli sürüş için gereklidir."
+  },
+  {
+    "id": 51,
+    "category": "İlk yardım ve acil durum",
+    "question": "Kaza yerinde ilk yardımcının ilk önceliği nedir?",
+    "options": [
+      "Araçları hareket ettirmek",
+      "Kendi güvenliğini ve olay yeri güvenliğini sağlamak",
+      "Yaralıyı hemen ayağa kaldırmak",
+      "Kalabalığı toplamak"
+    ],
+    "answer": 1,
+    "explanation": "İlk yardımcı önce kendisinin ve olay yerinin güvenliğini sağlamalıdır."
+  },
+  {
+    "id": 52,
+    "category": "İlk yardım ve acil durum",
+    "question": "SRC4 sınavına hazırlanan bir sürücü için aşağıdakilerden hangisi doğrudur? kaza yerinde ilk yardımcının ilk önceliği nedir?",
+    "options": [
+      "Yaralıyı hemen ayağa kaldırmak",
+      "Kalabalığı toplamak",
+      "Araçları hareket ettirmek",
+      "Kendi güvenliğini ve olay yeri güvenliğini sağlamak"
+    ],
+    "answer": 3,
+    "explanation": "İlk yardımcı önce kendisinin ve olay yerinin güvenliğini sağlamalıdır."
+  },
+  {
+    "id": 53,
+    "category": "İlk yardım ve acil durum",
+    "question": "Bir taşıma operasyonunda bu konuyla ilgili en uygun uygulama hangisidir? kaza yerinde ilk yardımcının ilk önceliği nedir?",
+    "options": [
+      "Araçları hareket ettirmek",
+      "Kendi güvenliğini ve olay yeri güvenliğini sağlamak",
+      "Yaralıyı hemen ayağa kaldırmak",
+      "Kalabalığı toplamak"
+    ],
+    "answer": 1,
+    "explanation": "İlk yardımcı önce kendisinin ve olay yerinin güvenliğini sağlamalıdır."
+  },
+  {
+    "id": 54,
+    "category": "İlk yardım ve acil durum",
+    "question": "Güvenli ve mevzuata uygun taşımacılık açısından hangi seçenek tercih edilmelidir? kaza yerinde ilk yardımcının ilk önceliği nedir?",
+    "options": [
+      "Yaralıyı hemen ayağa kaldırmak",
+      "Kalabalığı toplamak",
+      "Araçları hareket ettirmek",
+      "Kendi güvenliğini ve olay yeri güvenliğini sağlamak"
+    ],
+    "answer": 3,
+    "explanation": "İlk yardımcı önce kendisinin ve olay yerinin güvenliğini sağlamalıdır."
+  },
+  {
+    "id": 55,
+    "category": "İlk yardım ve acil durum",
+    "question": "Aşağıdaki ifadelerden hangisi doğru kabul edilir? kaza yerinde ilk yardımcının ilk önceliği nedir?",
+    "options": [
+      "Araçları hareket ettirmek",
+      "Kendi güvenliğini ve olay yeri güvenliğini sağlamak",
+      "Yaralıyı hemen ayağa kaldırmak",
+      "Kalabalığı toplamak"
+    ],
+    "answer": 1,
+    "explanation": "İlk yardımcı önce kendisinin ve olay yerinin güvenliğini sağlamalıdır."
+  },
+  {
+    "id": 56,
+    "category": "İlk yardım ve acil durum",
+    "question": "Bilinci kapalı fakat solunumu olan yaralıda, travma şüphesi yoksa hangi pozisyon uygulanabilir?",
+    "options": [
+      "Koma (yan) pozisyonu",
+      "Yüzüstü pozisyon",
+      "Ayakta bekletme",
+      "Baş aşağı pozisyon"
+    ],
+    "answer": 0,
+    "explanation": "Solunumu olan bilinçsiz kişinin hava yolu açıklığını korumak için uygun yan pozisyon uygulanır; travma şüphesinde gereksiz hareket ettirilmez."
+  },
+  {
+    "id": 57,
+    "category": "İlk yardım ve acil durum",
+    "question": "SRC4 sınavına hazırlanan bir sürücü için aşağıdakilerden hangisi doğrudur? bilinci kapalı fakat solunumu olan yaralıda, travma şüphesi yoksa hangi pozisyon uygulanabilir?",
+    "options": [
+      "Ayakta bekletme",
+      "Baş aşağı pozisyon",
+      "Koma (yan) pozisyonu",
+      "Yüzüstü pozisyon"
+    ],
+    "answer": 2,
+    "explanation": "Solunumu olan bilinçsiz kişinin hava yolu açıklığını korumak için uygun yan pozisyon uygulanır; travma şüphesinde gereksiz hareket ettirilmez."
+  },
+  {
+    "id": 58,
+    "category": "İlk yardım ve acil durum",
+    "question": "Bir taşıma operasyonunda bu konuyla ilgili en uygun uygulama hangisidir? bilinci kapalı fakat solunumu olan yaralıda, travma şüphesi yoksa hangi pozisyon uygulanabilir?",
+    "options": [
+      "Koma (yan) pozisyonu",
+      "Yüzüstü pozisyon",
+      "Ayakta bekletme",
+      "Baş aşağı pozisyon"
+    ],
+    "answer": 0,
+    "explanation": "Solunumu olan bilinçsiz kişinin hava yolu açıklığını korumak için uygun yan pozisyon uygulanır; travma şüphesinde gereksiz hareket ettirilmez."
+  },
+  {
+    "id": 59,
+    "category": "İlk yardım ve acil durum",
+    "question": "Güvenli ve mevzuata uygun taşımacılık açısından hangi seçenek tercih edilmelidir? bilinci kapalı fakat solunumu olan yaralıda, travma şüphesi yoksa hangi pozisyon uygulanabilir?",
+    "options": [
+      "Ayakta bekletme",
+      "Baş aşağı pozisyon",
+      "Koma (yan) pozisyonu",
+      "Yüzüstü pozisyon"
+    ],
+    "answer": 2,
+    "explanation": "Solunumu olan bilinçsiz kişinin hava yolu açıklığını korumak için uygun yan pozisyon uygulanır; travma şüphesinde gereksiz hareket ettirilmez."
+  },
+  {
+    "id": 60,
+    "category": "İlk yardım ve acil durum",
+    "question": "Aşağıdaki ifadelerden hangisi doğru kabul edilir? bilinci kapalı fakat solunumu olan yaralıda, travma şüphesi yoksa hangi pozisyon uygulanabilir?",
+    "options": [
+      "Koma (yan) pozisyonu",
+      "Yüzüstü pozisyon",
+      "Ayakta bekletme",
+      "Baş aşağı pozisyon"
+    ],
+    "answer": 0,
+    "explanation": "Solunumu olan bilinçsiz kişinin hava yolu açıklığını korumak için uygun yan pozisyon uygulanır; travma şüphesinde gereksiz hareket ettirilmez."
+  },
+  {
+    "id": 61,
+    "category": "İlk yardım ve acil durum",
+    "question": "Şiddetli dış kanamada ilk uygulanacak temel yöntem hangisidir?",
+    "options": [
+      "Yaraya toprak koymak",
+      "Kanayan uzvu sürekli sallamak",
+      "Yaralıya yiyecek vermek",
+      "Kanayan yere doğrudan bası uygulamak"
+    ],
+    "answer": 3,
+    "explanation": "Temiz bez veya pansumanla doğrudan bası, dış kanamada temel ilk yardım uygulamasıdır."
+  },
+  {
+    "id": 62,
+    "category": "İlk yardım ve acil durum",
+    "question": "SRC4 sınavına hazırlanan bir sürücü için aşağıdakilerden hangisi doğrudur? şiddetli dış kanamada ilk uygulanacak temel yöntem hangisidir?",
+    "options": [
+      "Yaralıya yiyecek vermek",
+      "Kanayan yere doğrudan bası uygulamak",
+      "Yaraya toprak koymak",
+      "Kanayan uzvu sürekli sallamak"
+    ],
+    "answer": 1,
+    "explanation": "Temiz bez veya pansumanla doğrudan bası, dış kanamada temel ilk yardım uygulamasıdır."
+  },
+  {
+    "id": 63,
+    "category": "İlk yardım ve acil durum",
+    "question": "Bir taşıma operasyonunda bu konuyla ilgili en uygun uygulama hangisidir? şiddetli dış kanamada ilk uygulanacak temel yöntem hangisidir?",
+    "options": [
+      "Yaraya toprak koymak",
+      "Kanayan uzvu sürekli sallamak",
+      "Yaralıya yiyecek vermek",
+      "Kanayan yere doğrudan bası uygulamak"
+    ],
+    "answer": 3,
+    "explanation": "Temiz bez veya pansumanla doğrudan bası, dış kanamada temel ilk yardım uygulamasıdır."
+  },
+  {
+    "id": 64,
+    "category": "İlk yardım ve acil durum",
+    "question": "Güvenli ve mevzuata uygun taşımacılık açısından hangi seçenek tercih edilmelidir? şiddetli dış kanamada ilk uygulanacak temel yöntem hangisidir?",
+    "options": [
+      "Yaralıya yiyecek vermek",
+      "Kanayan yere doğrudan bası uygulamak",
+      "Yaraya toprak koymak",
+      "Kanayan uzvu sürekli sallamak"
+    ],
+    "answer": 1,
+    "explanation": "Temiz bez veya pansumanla doğrudan bası, dış kanamada temel ilk yardım uygulamasıdır."
+  },
+  {
+    "id": 65,
+    "category": "İlk yardım ve acil durum",
+    "question": "Aşağıdaki ifadelerden hangisi doğru kabul edilir? şiddetli dış kanamada ilk uygulanacak temel yöntem hangisidir?",
+    "options": [
+      "Yaraya toprak koymak",
+      "Kanayan uzvu sürekli sallamak",
+      "Yaralıya yiyecek vermek",
+      "Kanayan yere doğrudan bası uygulamak"
+    ],
+    "answer": 3,
+    "explanation": "Temiz bez veya pansumanla doğrudan bası, dış kanamada temel ilk yardım uygulamasıdır."
+  },
+  {
+    "id": 66,
+    "category": "İlk yardım ve acil durum",
+    "question": "Yanık bölgesine ilk müdahalede ne yapılmalıdır?",
+    "options": [
+      "Buz doğrudan bastırmak",
+      "Yağ sürmek",
+      "Serin akan su altında soğutmak",
+      "Diş macunu sürmek"
+    ],
+    "answer": 2,
+    "explanation": "Yanık bölge yaklaşık 20 dakika serin akan suyla soğutulmalı; buz ve ev tipi maddeler kullanılmamalıdır."
+  },
+  {
+    "id": 67,
+    "category": "İlk yardım ve acil durum",
+    "question": "SRC4 sınavına hazırlanan bir sürücü için aşağıdakilerden hangisi doğrudur? yanık bölgesine ilk müdahalede ne yapılmalıdır?",
+    "options": [
+      "Serin akan su altında soğutmak",
+      "Diş macunu sürmek",
+      "Buz doğrudan bastırmak",
+      "Yağ sürmek"
+    ],
+    "answer": 0,
+    "explanation": "Yanık bölge yaklaşık 20 dakika serin akan suyla soğutulmalı; buz ve ev tipi maddeler kullanılmamalıdır."
+  },
+  {
+    "id": 68,
+    "category": "İlk yardım ve acil durum",
+    "question": "Bir taşıma operasyonunda bu konuyla ilgili en uygun uygulama hangisidir? yanık bölgesine ilk müdahalede ne yapılmalıdır?",
+    "options": [
+      "Buz doğrudan bastırmak",
+      "Yağ sürmek",
+      "Serin akan su altında soğutmak",
+      "Diş macunu sürmek"
+    ],
+    "answer": 2,
+    "explanation": "Yanık bölge yaklaşık 20 dakika serin akan suyla soğutulmalı; buz ve ev tipi maddeler kullanılmamalıdır."
+  },
+  {
+    "id": 69,
+    "category": "İlk yardım ve acil durum",
+    "question": "Güvenli ve mevzuata uygun taşımacılık açısından hangi seçenek tercih edilmelidir? yanık bölgesine ilk müdahalede ne yapılmalıdır?",
+    "options": [
+      "Serin akan su altında soğutmak",
+      "Diş macunu sürmek",
+      "Buz doğrudan bastırmak",
+      "Yağ sürmek"
+    ],
+    "answer": 0,
+    "explanation": "Yanık bölge yaklaşık 20 dakika serin akan suyla soğutulmalı; buz ve ev tipi maddeler kullanılmamalıdır."
+  },
+  {
+    "id": 70,
+    "category": "İlk yardım ve acil durum",
+    "question": "Aşağıdaki ifadelerden hangisi doğru kabul edilir? yanık bölgesine ilk müdahalede ne yapılmalıdır?",
+    "options": [
+      "Buz doğrudan bastırmak",
+      "Yağ sürmek",
+      "Serin akan su altında soğutmak",
+      "Diş macunu sürmek"
+    ],
+    "answer": 2,
+    "explanation": "Yanık bölge yaklaşık 20 dakika serin akan suyla soğutulmalı; buz ve ev tipi maddeler kullanılmamalıdır."
+  },
+  {
+    "id": 71,
+    "category": "İlk yardım ve acil durum",
+    "question": "Kırık şüphesinde doğru yaklaşım hangisidir?",
+    "options": [
+      "Kırık bölgeye kuvvetli masaj yapmak",
+      "Bölgeyi bulunduğu pozisyonda sabitlemek",
+      "Kemiği yerine oturtmaya çalışmak",
+      "Yaralıyı koşturmak"
+    ],
+    "answer": 1,
+    "explanation": "Kırık bölge hareket ettirilmemeli, mümkün olduğunca sabitlenmeli ve tıbbi yardım alınmalıdır."
+  },
+  {
+    "id": 72,
+    "category": "İlk yardım ve acil durum",
+    "question": "SRC4 sınavına hazırlanan bir sürücü için aşağıdakilerden hangisi doğrudur? kırık şüphesinde doğru yaklaşım hangisidir?",
+    "options": [
+      "Kemiği yerine oturtmaya çalışmak",
+      "Yaralıyı koşturmak",
+      "Kırık bölgeye kuvvetli masaj yapmak",
+      "Bölgeyi bulunduğu pozisyonda sabitlemek"
+    ],
+    "answer": 3,
+    "explanation": "Kırık bölge hareket ettirilmemeli, mümkün olduğunca sabitlenmeli ve tıbbi yardım alınmalıdır."
+  },
+  {
+    "id": 73,
+    "category": "İlk yardım ve acil durum",
+    "question": "Bir taşıma operasyonunda bu konuyla ilgili en uygun uygulama hangisidir? kırık şüphesinde doğru yaklaşım hangisidir?",
+    "options": [
+      "Kırık bölgeye kuvvetli masaj yapmak",
+      "Bölgeyi bulunduğu pozisyonda sabitlemek",
+      "Kemiği yerine oturtmaya çalışmak",
+      "Yaralıyı koşturmak"
+    ],
+    "answer": 1,
+    "explanation": "Kırık bölge hareket ettirilmemeli, mümkün olduğunca sabitlenmeli ve tıbbi yardım alınmalıdır."
+  },
+  {
+    "id": 74,
+    "category": "İlk yardım ve acil durum",
+    "question": "Güvenli ve mevzuata uygun taşımacılık açısından hangi seçenek tercih edilmelidir? kırık şüphesinde doğru yaklaşım hangisidir?",
+    "options": [
+      "Kemiği yerine oturtmaya çalışmak",
+      "Yaralıyı koşturmak",
+      "Kırık bölgeye kuvvetli masaj yapmak",
+      "Bölgeyi bulunduğu pozisyonda sabitlemek"
+    ],
+    "answer": 3,
+    "explanation": "Kırık bölge hareket ettirilmemeli, mümkün olduğunca sabitlenmeli ve tıbbi yardım alınmalıdır."
+  },
+  {
+    "id": 75,
+    "category": "İlk yardım ve acil durum",
+    "question": "Aşağıdaki ifadelerden hangisi doğru kabul edilir? kırık şüphesinde doğru yaklaşım hangisidir?",
+    "options": [
+      "Kırık bölgeye kuvvetli masaj yapmak",
+      "Bölgeyi bulunduğu pozisyonda sabitlemek",
+      "Kemiği yerine oturtmaya çalışmak",
+      "Yaralıyı koşturmak"
+    ],
+    "answer": 1,
+    "explanation": "Kırık bölge hareket ettirilmemeli, mümkün olduğunca sabitlenmeli ve tıbbi yardım alınmalıdır."
+  },
+  {
+    "id": 76,
+    "category": "Araç tekniği ve bakım",
+    "question": "Motor yağı seviyesinin kontrolü hangi amaçla yapılır?",
+    "options": [
+      "Motorun yeterli yağlamayla çalışmasını sağlamak",
+      "Yakıtın rengini belirlemek",
+      "Lastik basıncını ölçmek",
+      "Fren balatasını ayarlamak"
+    ],
+    "answer": 0,
+    "explanation": "Yetersiz yağlama motor parçalarında aşınma ve ciddi hasara neden olabilir."
+  },
+  {
+    "id": 77,
+    "category": "Araç tekniği ve bakım",
+    "question": "SRC4 sınavına hazırlanan bir sürücü için aşağıdakilerden hangisi doğrudur? motor yağı seviyesinin kontrolü hangi amaçla yapılır?",
+    "options": [
+      "Lastik basıncını ölçmek",
+      "Fren balatasını ayarlamak",
+      "Motorun yeterli yağlamayla çalışmasını sağlamak",
+      "Yakıtın rengini belirlemek"
+    ],
+    "answer": 2,
+    "explanation": "Yetersiz yağlama motor parçalarında aşınma ve ciddi hasara neden olabilir."
+  },
+  {
+    "id": 78,
+    "category": "Araç tekniği ve bakım",
+    "question": "Bir taşıma operasyonunda bu konuyla ilgili en uygun uygulama hangisidir? motor yağı seviyesinin kontrolü hangi amaçla yapılır?",
+    "options": [
+      "Motorun yeterli yağlamayla çalışmasını sağlamak",
+      "Yakıtın rengini belirlemek",
+      "Lastik basıncını ölçmek",
+      "Fren balatasını ayarlamak"
+    ],
+    "answer": 0,
+    "explanation": "Yetersiz yağlama motor parçalarında aşınma ve ciddi hasara neden olabilir."
+  },
+  {
+    "id": 79,
+    "category": "Araç tekniği ve bakım",
+    "question": "Güvenli ve mevzuata uygun taşımacılık açısından hangi seçenek tercih edilmelidir? motor yağı seviyesinin kontrolü hangi amaçla yapılır?",
+    "options": [
+      "Lastik basıncını ölçmek",
+      "Fren balatasını ayarlamak",
+      "Motorun yeterli yağlamayla çalışmasını sağlamak",
+      "Yakıtın rengini belirlemek"
+    ],
+    "answer": 2,
+    "explanation": "Yetersiz yağlama motor parçalarında aşınma ve ciddi hasara neden olabilir."
+  },
+  {
+    "id": 80,
+    "category": "Araç tekniği ve bakım",
+    "question": "Aşağıdaki ifadelerden hangisi doğru kabul edilir? motor yağı seviyesinin kontrolü hangi amaçla yapılır?",
+    "options": [
+      "Motorun yeterli yağlamayla çalışmasını sağlamak",
+      "Yakıtın rengini belirlemek",
+      "Lastik basıncını ölçmek",
+      "Fren balatasını ayarlamak"
+    ],
+    "answer": 0,
+    "explanation": "Yetersiz yağlama motor parçalarında aşınma ve ciddi hasara neden olabilir."
+  },
+  {
+    "id": 81,
+    "category": "Araç tekniği ve bakım",
+    "question": "Hararet göstergesinin tehlikeli seviyeye çıkması neyi gösterir?",
+    "options": [
+      "Akünün tamamen dolduğunu",
+      "Lastiklerin soğuduğunu",
+      "Yakıt deposunun dolduğunu",
+      "Motorun aşırı ısındığını"
+    ],
+    "answer": 3,
+    "explanation": "Aşırı ısınma durumunda güvenli yerde durulmalı ve üretici talimatlarına göre hareket edilmelidir."
+  },
+  {
+    "id": 82,
+    "category": "Araç tekniği ve bakım",
+    "question": "SRC4 sınavına hazırlanan bir sürücü için aşağıdakilerden hangisi doğrudur? hararet göstergesinin tehlikeli seviyeye çıkması neyi gösterir?",
+    "options": [
+      "Yakıt deposunun dolduğunu",
+      "Motorun aşırı ısındığını",
+      "Akünün tamamen dolduğunu",
+      "Lastiklerin soğuduğunu"
+    ],
+    "answer": 1,
+    "explanation": "Aşırı ısınma durumunda güvenli yerde durulmalı ve üretici talimatlarına göre hareket edilmelidir."
+  },
+  {
+    "id": 83,
+    "category": "Araç tekniği ve bakım",
+    "question": "Bir taşıma operasyonunda bu konuyla ilgili en uygun uygulama hangisidir? hararet göstergesinin tehlikeli seviyeye çıkması neyi gösterir?",
+    "options": [
+      "Akünün tamamen dolduğunu",
+      "Lastiklerin soğuduğunu",
+      "Yakıt deposunun dolduğunu",
+      "Motorun aşırı ısındığını"
+    ],
+    "answer": 3,
+    "explanation": "Aşırı ısınma durumunda güvenli yerde durulmalı ve üretici talimatlarına göre hareket edilmelidir."
+  },
+  {
+    "id": 84,
+    "category": "Araç tekniği ve bakım",
+    "question": "Güvenli ve mevzuata uygun taşımacılık açısından hangi seçenek tercih edilmelidir? hararet göstergesinin tehlikeli seviyeye çıkması neyi gösterir?",
+    "options": [
+      "Yakıt deposunun dolduğunu",
+      "Motorun aşırı ısındığını",
+      "Akünün tamamen dolduğunu",
+      "Lastiklerin soğuduğunu"
+    ],
+    "answer": 1,
+    "explanation": "Aşırı ısınma durumunda güvenli yerde durulmalı ve üretici talimatlarına göre hareket edilmelidir."
+  },
+  {
+    "id": 85,
+    "category": "Araç tekniği ve bakım",
+    "question": "Aşağıdaki ifadelerden hangisi doğru kabul edilir? hararet göstergesinin tehlikeli seviyeye çıkması neyi gösterir?",
+    "options": [
+      "Akünün tamamen dolduğunu",
+      "Lastiklerin soğuduğunu",
+      "Yakıt deposunun dolduğunu",
+      "Motorun aşırı ısındığını"
+    ],
+    "answer": 3,
+    "explanation": "Aşırı ısınma durumunda güvenli yerde durulmalı ve üretici talimatlarına göre hareket edilmelidir."
+  },
+  {
+    "id": 86,
+    "category": "Araç tekniği ve bakım",
+    "question": "ABS sisteminin temel işlevi nedir?",
+    "options": [
+      "Yakıtı depolamak",
+      "Lastik basıncını otomatik yükseltmek",
+      "Frenlemede tekerleklerin kilitlenmesini önlemeye yardımcı olmak",
+      "Motor gücünü artırmak"
+    ],
+    "answer": 2,
+    "explanation": "ABS, sert frenlemede tekerlek kilitlenmesini azaltarak direksiyon hakimiyetinin korunmasına yardımcı olur."
+  },
+  {
+    "id": 87,
+    "category": "Araç tekniği ve bakım",
+    "question": "SRC4 sınavına hazırlanan bir sürücü için aşağıdakilerden hangisi doğrudur? aBS sisteminin temel işlevi nedir?",
+    "options": [
+      "Frenlemede tekerleklerin kilitlenmesini önlemeye yardımcı olmak",
+      "Motor gücünü artırmak",
+      "Yakıtı depolamak",
+      "Lastik basıncını otomatik yükseltmek"
+    ],
+    "answer": 0,
+    "explanation": "ABS, sert frenlemede tekerlek kilitlenmesini azaltarak direksiyon hakimiyetinin korunmasına yardımcı olur."
+  },
+  {
+    "id": 88,
+    "category": "Araç tekniği ve bakım",
+    "question": "Bir taşıma operasyonunda bu konuyla ilgili en uygun uygulama hangisidir? aBS sisteminin temel işlevi nedir?",
+    "options": [
+      "Yakıtı depolamak",
+      "Lastik basıncını otomatik yükseltmek",
+      "Frenlemede tekerleklerin kilitlenmesini önlemeye yardımcı olmak",
+      "Motor gücünü artırmak"
+    ],
+    "answer": 2,
+    "explanation": "ABS, sert frenlemede tekerlek kilitlenmesini azaltarak direksiyon hakimiyetinin korunmasına yardımcı olur."
+  },
+  {
+    "id": 89,
+    "category": "Araç tekniği ve bakım",
+    "question": "Güvenli ve mevzuata uygun taşımacılık açısından hangi seçenek tercih edilmelidir? aBS sisteminin temel işlevi nedir?",
+    "options": [
+      "Frenlemede tekerleklerin kilitlenmesini önlemeye yardımcı olmak",
+      "Motor gücünü artırmak",
+      "Yakıtı depolamak",
+      "Lastik basıncını otomatik yükseltmek"
+    ],
+    "answer": 0,
+    "explanation": "ABS, sert frenlemede tekerlek kilitlenmesini azaltarak direksiyon hakimiyetinin korunmasına yardımcı olur."
+  },
+  {
+    "id": 90,
+    "category": "Araç tekniği ve bakım",
+    "question": "Aşağıdaki ifadelerden hangisi doğru kabul edilir? aBS sisteminin temel işlevi nedir?",
+    "options": [
+      "Yakıtı depolamak",
+      "Lastik basıncını otomatik yükseltmek",
+      "Frenlemede tekerleklerin kilitlenmesini önlemeye yardımcı olmak",
+      "Motor gücünü artırmak"
+    ],
+    "answer": 2,
+    "explanation": "ABS, sert frenlemede tekerlek kilitlenmesini azaltarak direksiyon hakimiyetinin korunmasına yardımcı olur."
+  },
+  {
+    "id": 91,
+    "category": "Araç tekniği ve bakım",
+    "question": "Fren pedalında normal dışı yumuşama hissedilirse ne yapılmalıdır?",
+    "options": [
+      "Lastik havasını indirmek",
+      "Aracı güvenli şekilde durdurup kontrol ettirmek",
+      "Yola aynı hızla devam etmek",
+      "Yükü artırmak"
+    ],
+    "answer": 1,
+    "explanation": "Fren sistemindeki arıza ciddi güvenlik riski oluşturur; araç kullanılmamalı ve kontrol edilmelidir."
+  },
+  {
+    "id": 92,
+    "category": "Araç tekniği ve bakım",
+    "question": "SRC4 sınavına hazırlanan bir sürücü için aşağıdakilerden hangisi doğrudur? fren pedalında normal dışı yumuşama hissedilirse ne yapılmalıdır?",
+    "options": [
+      "Yola aynı hızla devam etmek",
+      "Yükü artırmak",
+      "Lastik havasını indirmek",
+      "Aracı güvenli şekilde durdurup kontrol ettirmek"
+    ],
+    "answer": 3,
+    "explanation": "Fren sistemindeki arıza ciddi güvenlik riski oluşturur; araç kullanılmamalı ve kontrol edilmelidir."
+  },
+  {
+    "id": 93,
+    "category": "Araç tekniği ve bakım",
+    "question": "Bir taşıma operasyonunda bu konuyla ilgili en uygun uygulama hangisidir? fren pedalında normal dışı yumuşama hissedilirse ne yapılmalıdır?",
+    "options": [
+      "Lastik havasını indirmek",
+      "Aracı güvenli şekilde durdurup kontrol ettirmek",
+      "Yola aynı hızla devam etmek",
+      "Yükü artırmak"
+    ],
+    "answer": 1,
+    "explanation": "Fren sistemindeki arıza ciddi güvenlik riski oluşturur; araç kullanılmamalı ve kontrol edilmelidir."
+  },
+  {
+    "id": 94,
+    "category": "Araç tekniği ve bakım",
+    "question": "Güvenli ve mevzuata uygun taşımacılık açısından hangi seçenek tercih edilmelidir? fren pedalında normal dışı yumuşama hissedilirse ne yapılmalıdır?",
+    "options": [
+      "Yola aynı hızla devam etmek",
+      "Yükü artırmak",
+      "Lastik havasını indirmek",
+      "Aracı güvenli şekilde durdurup kontrol ettirmek"
+    ],
+    "answer": 3,
+    "explanation": "Fren sistemindeki arıza ciddi güvenlik riski oluşturur; araç kullanılmamalı ve kontrol edilmelidir."
+  },
+  {
+    "id": 95,
+    "category": "Araç tekniği ve bakım",
+    "question": "Aşağıdaki ifadelerden hangisi doğru kabul edilir? fren pedalında normal dışı yumuşama hissedilirse ne yapılmalıdır?",
+    "options": [
+      "Lastik havasını indirmek",
+      "Aracı güvenli şekilde durdurup kontrol ettirmek",
+      "Yola aynı hızla devam etmek",
+      "Yükü artırmak"
+    ],
+    "answer": 1,
+    "explanation": "Fren sistemindeki arıza ciddi güvenlik riski oluşturur; araç kullanılmamalı ve kontrol edilmelidir."
+  },
+  {
+    "id": 96,
+    "category": "Araç tekniği ve bakım",
+    "question": "Günlük araç kontrolünde aydınlatma sisteminin kontrol edilme nedeni nedir?",
+    "options": [
+      "Görülmek ve yolu yeterince görmek",
+      "Motor sıcaklığını düşürmek",
+      "Yük kapasitesini artırmak",
+      "Yakıt tüketimini sıfırlamak"
+    ],
+    "answer": 0,
+    "explanation": "Far, sinyal ve stop lambaları görünürlük ve diğer sürücülere bilgi vermek için gereklidir."
+  },
+  {
+    "id": 97,
+    "category": "Araç tekniği ve bakım",
+    "question": "SRC4 sınavına hazırlanan bir sürücü için aşağıdakilerden hangisi doğrudur? günlük araç kontrolünde aydınlatma sisteminin kontrol edilme nedeni nedir?",
+    "options": [
+      "Yük kapasitesini artırmak",
+      "Yakıt tüketimini sıfırlamak",
+      "Görülmek ve yolu yeterince görmek",
+      "Motor sıcaklığını düşürmek"
+    ],
+    "answer": 2,
+    "explanation": "Far, sinyal ve stop lambaları görünürlük ve diğer sürücülere bilgi vermek için gereklidir."
+  },
+  {
+    "id": 98,
+    "category": "Araç tekniği ve bakım",
+    "question": "Bir taşıma operasyonunda bu konuyla ilgili en uygun uygulama hangisidir? günlük araç kontrolünde aydınlatma sisteminin kontrol edilme nedeni nedir?",
+    "options": [
+      "Görülmek ve yolu yeterince görmek",
+      "Motor sıcaklığını düşürmek",
+      "Yük kapasitesini artırmak",
+      "Yakıt tüketimini sıfırlamak"
+    ],
+    "answer": 0,
+    "explanation": "Far, sinyal ve stop lambaları görünürlük ve diğer sürücülere bilgi vermek için gereklidir."
+  },
+  {
+    "id": 99,
+    "category": "Araç tekniği ve bakım",
+    "question": "Güvenli ve mevzuata uygun taşımacılık açısından hangi seçenek tercih edilmelidir? günlük araç kontrolünde aydınlatma sisteminin kontrol edilme nedeni nedir?",
+    "options": [
+      "Yük kapasitesini artırmak",
+      "Yakıt tüketimini sıfırlamak",
+      "Görülmek ve yolu yeterince görmek",
+      "Motor sıcaklığını düşürmek"
+    ],
+    "answer": 2,
+    "explanation": "Far, sinyal ve stop lambaları görünürlük ve diğer sürücülere bilgi vermek için gereklidir."
+  },
+  {
+    "id": 100,
+    "category": "Araç tekniği ve bakım",
+    "question": "Aşağıdaki ifadelerden hangisi doğru kabul edilir? günlük araç kontrolünde aydınlatma sisteminin kontrol edilme nedeni nedir?",
+    "options": [
+      "Görülmek ve yolu yeterince görmek",
+      "Motor sıcaklığını düşürmek",
+      "Yük kapasitesini artırmak",
+      "Yakıt tüketimini sıfırlamak"
+    ],
+    "answer": 0,
+    "explanation": "Far, sinyal ve stop lambaları görünürlük ve diğer sürücülere bilgi vermek için gereklidir."
+  },
+  {
+    "id": 101,
+    "category": "Yükleme, istifleme ve yük güvenliği",
+    "question": "Yükün araç üzerinde dengeli dağıtılmasının temel amacı nedir?",
+    "options": [
+      "Aracın rengini korumak",
+      "Motor sesini azaltmak",
+      "Yakıt deposunu büyütmek",
+      "Araç dengesini ve yol güvenliğini korumak"
+    ],
+    "answer": 3,
+    "explanation": "Dengesiz yük dağılımı direksiyon, frenleme ve devrilme risklerini olumsuz etkiler."
+  },
+  {
+    "id": 102,
+    "category": "Yükleme, istifleme ve yük güvenliği",
+    "question": "SRC4 sınavına hazırlanan bir sürücü için aşağıdakilerden hangisi doğrudur? yükün araç üzerinde dengeli dağıtılmasının temel amacı nedir?",
+    "options": [
+      "Yakıt deposunu büyütmek",
+      "Araç dengesini ve yol güvenliğini korumak",
+      "Aracın rengini korumak",
+      "Motor sesini azaltmak"
+    ],
+    "answer": 1,
+    "explanation": "Dengesiz yük dağılımı direksiyon, frenleme ve devrilme risklerini olumsuz etkiler."
+  },
+  {
+    "id": 103,
+    "category": "Yükleme, istifleme ve yük güvenliği",
+    "question": "Bir taşıma operasyonunda bu konuyla ilgili en uygun uygulama hangisidir? yükün araç üzerinde dengeli dağıtılmasının temel amacı nedir?",
+    "options": [
+      "Aracın rengini korumak",
+      "Motor sesini azaltmak",
+      "Yakıt deposunu büyütmek",
+      "Araç dengesini ve yol güvenliğini korumak"
+    ],
+    "answer": 3,
+    "explanation": "Dengesiz yük dağılımı direksiyon, frenleme ve devrilme risklerini olumsuz etkiler."
+  },
+  {
+    "id": 104,
+    "category": "Yükleme, istifleme ve yük güvenliği",
+    "question": "Güvenli ve mevzuata uygun taşımacılık açısından hangi seçenek tercih edilmelidir? yükün araç üzerinde dengeli dağıtılmasının temel amacı nedir?",
+    "options": [
+      "Yakıt deposunu büyütmek",
+      "Araç dengesini ve yol güvenliğini korumak",
+      "Aracın rengini korumak",
+      "Motor sesini azaltmak"
+    ],
+    "answer": 1,
+    "explanation": "Dengesiz yük dağılımı direksiyon, frenleme ve devrilme risklerini olumsuz etkiler."
+  },
+  {
+    "id": 105,
+    "category": "Yükleme, istifleme ve yük güvenliği",
+    "question": "Aşağıdaki ifadelerden hangisi doğru kabul edilir? yükün araç üzerinde dengeli dağıtılmasının temel amacı nedir?",
+    "options": [
+      "Aracın rengini korumak",
+      "Motor sesini azaltmak",
+      "Yakıt deposunu büyütmek",
+      "Araç dengesini ve yol güvenliğini korumak"
+    ],
+    "answer": 3,
+    "explanation": "Dengesiz yük dağılımı direksiyon, frenleme ve devrilme risklerini olumsuz etkiler."
+  },
+  {
+    "id": 106,
+    "category": "Yükleme, istifleme ve yük güvenliği",
+    "question": "Yük sabitlemede kullanılan bağlama ekipmanları nasıl seçilmelidir?",
+    "options": [
+      "Hasarlı olsa da kullanılabilir",
+      "Yalnızca uzunluğuna bakılarak",
+      "Yükün ağırlığına ve bağlama koşullarına uygun kapasitede",
+      "En ucuz olan seçilerek"
+    ],
+    "answer": 2,
+    "explanation": "Kayış, zincir ve diğer ekipmanların kapasitesi yük ve taşıma koşullarına uygun olmalıdır."
+  },
+  {
+    "id": 107,
+    "category": "Yükleme, istifleme ve yük güvenliği",
+    "question": "SRC4 sınavına hazırlanan bir sürücü için aşağıdakilerden hangisi doğrudur? yük sabitlemede kullanılan bağlama ekipmanları nasıl seçilmelidir?",
+    "options": [
+      "Yükün ağırlığına ve bağlama koşullarına uygun kapasitede",
+      "En ucuz olan seçilerek",
+      "Hasarlı olsa da kullanılabilir",
+      "Yalnızca uzunluğuna bakılarak"
+    ],
+    "answer": 0,
+    "explanation": "Kayış, zincir ve diğer ekipmanların kapasitesi yük ve taşıma koşullarına uygun olmalıdır."
+  },
+  {
+    "id": 108,
+    "category": "Yükleme, istifleme ve yük güvenliği",
+    "question": "Bir taşıma operasyonunda bu konuyla ilgili en uygun uygulama hangisidir? yük sabitlemede kullanılan bağlama ekipmanları nasıl seçilmelidir?",
+    "options": [
+      "Hasarlı olsa da kullanılabilir",
+      "Yalnızca uzunluğuna bakılarak",
+      "Yükün ağırlığına ve bağlama koşullarına uygun kapasitede",
+      "En ucuz olan seçilerek"
+    ],
+    "answer": 2,
+    "explanation": "Kayış, zincir ve diğer ekipmanların kapasitesi yük ve taşıma koşullarına uygun olmalıdır."
+  },
+  {
+    "id": 109,
+    "category": "Yükleme, istifleme ve yük güvenliği",
+    "question": "Güvenli ve mevzuata uygun taşımacılık açısından hangi seçenek tercih edilmelidir? yük sabitlemede kullanılan bağlama ekipmanları nasıl seçilmelidir?",
+    "options": [
+      "Yükün ağırlığına ve bağlama koşullarına uygun kapasitede",
+      "En ucuz olan seçilerek",
+      "Hasarlı olsa da kullanılabilir",
+      "Yalnızca uzunluğuna bakılarak"
+    ],
+    "answer": 0,
+    "explanation": "Kayış, zincir ve diğer ekipmanların kapasitesi yük ve taşıma koşullarına uygun olmalıdır."
+  },
+  {
+    "id": 110,
+    "category": "Yükleme, istifleme ve yük güvenliği",
+    "question": "Aşağıdaki ifadelerden hangisi doğru kabul edilir? yük sabitlemede kullanılan bağlama ekipmanları nasıl seçilmelidir?",
+    "options": [
+      "Hasarlı olsa da kullanılabilir",
+      "Yalnızca uzunluğuna bakılarak",
+      "Yükün ağırlığına ve bağlama koşullarına uygun kapasitede",
+      "En ucuz olan seçilerek"
+    ],
+    "answer": 2,
+    "explanation": "Kayış, zincir ve diğer ekipmanların kapasitesi yük ve taşıma koşullarına uygun olmalıdır."
+  },
+  {
+    "id": 111,
+    "category": "Yükleme, istifleme ve yük güvenliği",
+    "question": "Yükün araçtan düşmesini önlemek için ne yapılmalıdır?",
+    "options": [
+      "Yükü tek tarafa toplamak",
+      "Uygun şekilde istifleyip sabitlemek",
+      "Yalnızca brandayla örtmek",
+      "Aracın hızını artırmak"
+    ],
+    "answer": 1,
+    "explanation": "Yük, taşıma boyunca kaymayacak, devrilmeyecek ve düşmeyecek şekilde sabitlenmelidir."
+  },
+  {
+    "id": 112,
+    "category": "Yükleme, istifleme ve yük güvenliği",
+    "question": "SRC4 sınavına hazırlanan bir sürücü için aşağıdakilerden hangisi doğrudur? yükün araçtan düşmesini önlemek için ne yapılmalıdır?",
+    "options": [
+      "Yalnızca brandayla örtmek",
+      "Aracın hızını artırmak",
+      "Yükü tek tarafa toplamak",
+      "Uygun şekilde istifleyip sabitlemek"
+    ],
+    "answer": 3,
+    "explanation": "Yük, taşıma boyunca kaymayacak, devrilmeyecek ve düşmeyecek şekilde sabitlenmelidir."
+  },
+  {
+    "id": 113,
+    "category": "Yükleme, istifleme ve yük güvenliği",
+    "question": "Bir taşıma operasyonunda bu konuyla ilgili en uygun uygulama hangisidir? yükün araçtan düşmesini önlemek için ne yapılmalıdır?",
+    "options": [
+      "Yükü tek tarafa toplamak",
+      "Uygun şekilde istifleyip sabitlemek",
+      "Yalnızca brandayla örtmek",
+      "Aracın hızını artırmak"
+    ],
+    "answer": 1,
+    "explanation": "Yük, taşıma boyunca kaymayacak, devrilmeyecek ve düşmeyecek şekilde sabitlenmelidir."
+  },
+  {
+    "id": 114,
+    "category": "Yükleme, istifleme ve yük güvenliği",
+    "question": "Güvenli ve mevzuata uygun taşımacılık açısından hangi seçenek tercih edilmelidir? yükün araçtan düşmesini önlemek için ne yapılmalıdır?",
+    "options": [
+      "Yalnızca brandayla örtmek",
+      "Aracın hızını artırmak",
+      "Yükü tek tarafa toplamak",
+      "Uygun şekilde istifleyip sabitlemek"
+    ],
+    "answer": 3,
+    "explanation": "Yük, taşıma boyunca kaymayacak, devrilmeyecek ve düşmeyecek şekilde sabitlenmelidir."
+  },
+  {
+    "id": 115,
+    "category": "Yükleme, istifleme ve yük güvenliği",
+    "question": "Aşağıdaki ifadelerden hangisi doğru kabul edilir? yükün araçtan düşmesini önlemek için ne yapılmalıdır?",
+    "options": [
+      "Yükü tek tarafa toplamak",
+      "Uygun şekilde istifleyip sabitlemek",
+      "Yalnızca brandayla örtmek",
+      "Aracın hızını artırmak"
+    ],
+    "answer": 1,
+    "explanation": "Yük, taşıma boyunca kaymayacak, devrilmeyecek ve düşmeyecek şekilde sabitlenmelidir."
+  },
+  {
+    "id": 116,
+    "category": "Yükleme, istifleme ve yük güvenliği",
+    "question": "Ağır yükün araçta mümkün olduğunca alçak konumlandırılması neden tercih edilir?",
+    "options": [
+      "Ağırlık merkezini düşürerek dengeyi iyileştirmek",
+      "Motor gücünü artırmak",
+      "Fren hidroliğini soğutmak",
+      "Yakıt deposunu korumak"
+    ],
+    "answer": 0,
+    "explanation": "Ağırlık merkezinin yükselmesi devrilme riskini artırabilir."
+  },
+  {
+    "id": 117,
+    "category": "Yükleme, istifleme ve yük güvenliği",
+    "question": "SRC4 sınavına hazırlanan bir sürücü için aşağıdakilerden hangisi doğrudur? ağır yükün araçta mümkün olduğunca alçak konumlandırılması neden tercih edilir?",
+    "options": [
+      "Fren hidroliğini soğutmak",
+      "Yakıt deposunu korumak",
+      "Ağırlık merkezini düşürerek dengeyi iyileştirmek",
+      "Motor gücünü artırmak"
+    ],
+    "answer": 2,
+    "explanation": "Ağırlık merkezinin yükselmesi devrilme riskini artırabilir."
+  },
+  {
+    "id": 118,
+    "category": "Yükleme, istifleme ve yük güvenliği",
+    "question": "Bir taşıma operasyonunda bu konuyla ilgili en uygun uygulama hangisidir? ağır yükün araçta mümkün olduğunca alçak konumlandırılması neden tercih edilir?",
+    "options": [
+      "Ağırlık merkezini düşürerek dengeyi iyileştirmek",
+      "Motor gücünü artırmak",
+      "Fren hidroliğini soğutmak",
+      "Yakıt deposunu korumak"
+    ],
+    "answer": 0,
+    "explanation": "Ağırlık merkezinin yükselmesi devrilme riskini artırabilir."
+  },
+  {
+    "id": 119,
+    "category": "Yükleme, istifleme ve yük güvenliği",
+    "question": "Güvenli ve mevzuata uygun taşımacılık açısından hangi seçenek tercih edilmelidir? ağır yükün araçta mümkün olduğunca alçak konumlandırılması neden tercih edilir?",
+    "options": [
+      "Fren hidroliğini soğutmak",
+      "Yakıt deposunu korumak",
+      "Ağırlık merkezini düşürerek dengeyi iyileştirmek",
+      "Motor gücünü artırmak"
+    ],
+    "answer": 2,
+    "explanation": "Ağırlık merkezinin yükselmesi devrilme riskini artırabilir."
+  },
+  {
+    "id": 120,
+    "category": "Yükleme, istifleme ve yük güvenliği",
+    "question": "Aşağıdaki ifadelerden hangisi doğru kabul edilir? ağır yükün araçta mümkün olduğunca alçak konumlandırılması neden tercih edilir?",
+    "options": [
+      "Ağırlık merkezini düşürerek dengeyi iyileştirmek",
+      "Motor gücünü artırmak",
+      "Fren hidroliğini soğutmak",
+      "Yakıt deposunu korumak"
+    ],
+    "answer": 0,
+    "explanation": "Ağırlık merkezinin yükselmesi devrilme riskini artırabilir."
+  },
+  {
+    "id": 121,
+    "category": "Yükleme, istifleme ve yük güvenliği",
+    "question": "Yükleme öncesinde araç kapasitesi neden kontrol edilmelidir?",
+    "options": [
+      "Araç rengini seçmek için",
+      "Navigasyon güncellemek için",
+      "Radyo frekansını ayarlamak için",
+      "Azami yüklü ağırlık ve aks sınırlarının aşılmaması için"
+    ],
+    "answer": 3,
+    "explanation": "Araç ve aks kapasitesinin aşılması güvenliği ve mevzuata uygunluğu bozar."
+  },
+  {
+    "id": 122,
+    "category": "Yükleme, istifleme ve yük güvenliği",
+    "question": "SRC4 sınavına hazırlanan bir sürücü için aşağıdakilerden hangisi doğrudur? yükleme öncesinde araç kapasitesi neden kontrol edilmelidir?",
+    "options": [
+      "Radyo frekansını ayarlamak için",
+      "Azami yüklü ağırlık ve aks sınırlarının aşılmaması için",
+      "Araç rengini seçmek için",
+      "Navigasyon güncellemek için"
+    ],
+    "answer": 1,
+    "explanation": "Araç ve aks kapasitesinin aşılması güvenliği ve mevzuata uygunluğu bozar."
+  },
+  {
+    "id": 123,
+    "category": "Yükleme, istifleme ve yük güvenliği",
+    "question": "Bir taşıma operasyonunda bu konuyla ilgili en uygun uygulama hangisidir? yükleme öncesinde araç kapasitesi neden kontrol edilmelidir?",
+    "options": [
+      "Araç rengini seçmek için",
+      "Navigasyon güncellemek için",
+      "Radyo frekansını ayarlamak için",
+      "Azami yüklü ağırlık ve aks sınırlarının aşılmaması için"
+    ],
+    "answer": 3,
+    "explanation": "Araç ve aks kapasitesinin aşılması güvenliği ve mevzuata uygunluğu bozar."
+  },
+  {
+    "id": 124,
+    "category": "Yükleme, istifleme ve yük güvenliği",
+    "question": "Güvenli ve mevzuata uygun taşımacılık açısından hangi seçenek tercih edilmelidir? yükleme öncesinde araç kapasitesi neden kontrol edilmelidir?",
+    "options": [
+      "Radyo frekansını ayarlamak için",
+      "Azami yüklü ağırlık ve aks sınırlarının aşılmaması için",
+      "Araç rengini seçmek için",
+      "Navigasyon güncellemek için"
+    ],
+    "answer": 1,
+    "explanation": "Araç ve aks kapasitesinin aşılması güvenliği ve mevzuata uygunluğu bozar."
+  },
+  {
+    "id": 125,
+    "category": "Yükleme, istifleme ve yük güvenliği",
+    "question": "Aşağıdaki ifadelerden hangisi doğru kabul edilir? yükleme öncesinde araç kapasitesi neden kontrol edilmelidir?",
+    "options": [
+      "Araç rengini seçmek için",
+      "Navigasyon güncellemek için",
+      "Radyo frekansını ayarlamak için",
+      "Azami yüklü ağırlık ve aks sınırlarının aşılmaması için"
+    ],
+    "answer": 3,
+    "explanation": "Araç ve aks kapasitesinin aşılması güvenliği ve mevzuata uygunluğu bozar."
+  },
+  {
+    "id": 126,
+    "category": "Taşıma belgeleri ve mevzuat",
+    "question": "Karayolu eşya taşımacılığında taşıma senedinin temel işlevi nedir?",
+    "options": [
+      "Sürücünün sağlık raporunu düzenlemek",
+      "Yakıt tüketimini ölçmek",
+      "Taşıma ilişkisi ve gönderiye ilişkin bilgileri belgelemek",
+      "Aracın periyodik bakımını kaydetmek"
+    ],
+    "answer": 2,
+    "explanation": "Taşıma senedi gönderici, alıcı, eşya ve taşıma bilgilerini kayıt altına alır."
+  },
+  {
+    "id": 127,
+    "category": "Taşıma belgeleri ve mevzuat",
+    "question": "SRC4 sınavına hazırlanan bir sürücü için aşağıdakilerden hangisi doğrudur? karayolu eşya taşımacılığında taşıma senedinin temel işlevi nedir?",
+    "options": [
+      "Taşıma ilişkisi ve gönderiye ilişkin bilgileri belgelemek",
+      "Aracın periyodik bakımını kaydetmek",
+      "Sürücünün sağlık raporunu düzenlemek",
+      "Yakıt tüketimini ölçmek"
+    ],
+    "answer": 0,
+    "explanation": "Taşıma senedi gönderici, alıcı, eşya ve taşıma bilgilerini kayıt altına alır."
+  },
+  {
+    "id": 128,
+    "category": "Taşıma belgeleri ve mevzuat",
+    "question": "Bir taşıma operasyonunda bu konuyla ilgili en uygun uygulama hangisidir? karayolu eşya taşımacılığında taşıma senedinin temel işlevi nedir?",
+    "options": [
+      "Sürücünün sağlık raporunu düzenlemek",
+      "Yakıt tüketimini ölçmek",
+      "Taşıma ilişkisi ve gönderiye ilişkin bilgileri belgelemek",
+      "Aracın periyodik bakımını kaydetmek"
+    ],
+    "answer": 2,
+    "explanation": "Taşıma senedi gönderici, alıcı, eşya ve taşıma bilgilerini kayıt altına alır."
+  },
+  {
+    "id": 129,
+    "category": "Taşıma belgeleri ve mevzuat",
+    "question": "Güvenli ve mevzuata uygun taşımacılık açısından hangi seçenek tercih edilmelidir? karayolu eşya taşımacılığında taşıma senedinin temel işlevi nedir?",
+    "options": [
+      "Taşıma ilişkisi ve gönderiye ilişkin bilgileri belgelemek",
+      "Aracın periyodik bakımını kaydetmek",
+      "Sürücünün sağlık raporunu düzenlemek",
+      "Yakıt tüketimini ölçmek"
+    ],
+    "answer": 0,
+    "explanation": "Taşıma senedi gönderici, alıcı, eşya ve taşıma bilgilerini kayıt altına alır."
+  },
+  {
+    "id": 130,
+    "category": "Taşıma belgeleri ve mevzuat",
+    "question": "Aşağıdaki ifadelerden hangisi doğru kabul edilir? karayolu eşya taşımacılığında taşıma senedinin temel işlevi nedir?",
+    "options": [
+      "Sürücünün sağlık raporunu düzenlemek",
+      "Yakıt tüketimini ölçmek",
+      "Taşıma ilişkisi ve gönderiye ilişkin bilgileri belgelemek",
+      "Aracın periyodik bakımını kaydetmek"
+    ],
+    "answer": 2,
+    "explanation": "Taşıma senedi gönderici, alıcı, eşya ve taşıma bilgilerini kayıt altına alır."
+  },
+  {
+    "id": 131,
+    "category": "Taşıma belgeleri ve mevzuat",
+    "question": "SRC4 belgesi hangi taşımacılık alanıyla ilişkilidir?",
+    "options": [
+      "Tehlikeli madde deniz taşımacılığı",
+      "Yurtiçi eşya-kargo taşımacılığı",
+      "Uluslararası yolcu taşımacılığı",
+      "Yurtiçi yolcu taşımacılığı"
+    ],
+    "answer": 1,
+    "explanation": "SRC4, yurtiçi eşya-kargo taşımacılığı yapan sürücülere yönelik mesleki yeterlilik belgesidir."
+  },
+  {
+    "id": 132,
+    "category": "Taşıma belgeleri ve mevzuat",
+    "question": "SRC4 sınavına hazırlanan bir sürücü için aşağıdakilerden hangisi doğrudur? sRC4 belgesi hangi taşımacılık alanıyla ilişkilidir?",
+    "options": [
+      "Uluslararası yolcu taşımacılığı",
+      "Yurtiçi yolcu taşımacılığı",
+      "Tehlikeli madde deniz taşımacılığı",
+      "Yurtiçi eşya-kargo taşımacılığı"
+    ],
+    "answer": 3,
+    "explanation": "SRC4, yurtiçi eşya-kargo taşımacılığı yapan sürücülere yönelik mesleki yeterlilik belgesidir."
+  },
+  {
+    "id": 133,
+    "category": "Taşıma belgeleri ve mevzuat",
+    "question": "Bir taşıma operasyonunda bu konuyla ilgili en uygun uygulama hangisidir? sRC4 belgesi hangi taşımacılık alanıyla ilişkilidir?",
+    "options": [
+      "Tehlikeli madde deniz taşımacılığı",
+      "Yurtiçi eşya-kargo taşımacılığı",
+      "Uluslararası yolcu taşımacılığı",
+      "Yurtiçi yolcu taşımacılığı"
+    ],
+    "answer": 1,
+    "explanation": "SRC4, yurtiçi eşya-kargo taşımacılığı yapan sürücülere yönelik mesleki yeterlilik belgesidir."
+  },
+  {
+    "id": 134,
+    "category": "Taşıma belgeleri ve mevzuat",
+    "question": "Güvenli ve mevzuata uygun taşımacılık açısından hangi seçenek tercih edilmelidir? sRC4 belgesi hangi taşımacılık alanıyla ilişkilidir?",
+    "options": [
+      "Uluslararası yolcu taşımacılığı",
+      "Yurtiçi yolcu taşımacılığı",
+      "Tehlikeli madde deniz taşımacılığı",
+      "Yurtiçi eşya-kargo taşımacılığı"
+    ],
+    "answer": 3,
+    "explanation": "SRC4, yurtiçi eşya-kargo taşımacılığı yapan sürücülere yönelik mesleki yeterlilik belgesidir."
+  },
+  {
+    "id": 135,
+    "category": "Taşıma belgeleri ve mevzuat",
+    "question": "Aşağıdaki ifadelerden hangisi doğru kabul edilir? sRC4 belgesi hangi taşımacılık alanıyla ilişkilidir?",
+    "options": [
+      "Tehlikeli madde deniz taşımacılığı",
+      "Yurtiçi eşya-kargo taşımacılığı",
+      "Uluslararası yolcu taşımacılığı",
+      "Yurtiçi yolcu taşımacılığı"
+    ],
+    "answer": 1,
+    "explanation": "SRC4, yurtiçi eşya-kargo taşımacılığı yapan sürücülere yönelik mesleki yeterlilik belgesidir."
+  },
+  {
+    "id": 136,
+    "category": "Taşıma belgeleri ve mevzuat",
+    "question": "K belgesi genel olarak hangi faaliyetle ilişkilidir?",
+    "options": [
+      "Yurtiçi eşya taşımacılığı yapan gerçek veya tüzel kişilerin yetkilendirilmesi",
+      "Sürücü sağlık muayenesi",
+      "Araç muayene istasyonu işletilmesi",
+      "Yolcu bileti satışı"
+    ],
+    "answer": 0,
+    "explanation": "K türü yetki belgeleri yurtiçi eşya taşımacılığı faaliyetleriyle ilişkilidir; tür ve kapsam faaliyete göre değişir."
+  },
+  {
+    "id": 137,
+    "category": "Taşıma belgeleri ve mevzuat",
+    "question": "SRC4 sınavına hazırlanan bir sürücü için aşağıdakilerden hangisi doğrudur? k belgesi genel olarak hangi faaliyetle ilişkilidir?",
+    "options": [
+      "Araç muayene istasyonu işletilmesi",
+      "Yolcu bileti satışı",
+      "Yurtiçi eşya taşımacılığı yapan gerçek veya tüzel kişilerin yetkilendirilmesi",
+      "Sürücü sağlık muayenesi"
+    ],
+    "answer": 2,
+    "explanation": "K türü yetki belgeleri yurtiçi eşya taşımacılığı faaliyetleriyle ilişkilidir; tür ve kapsam faaliyete göre değişir."
+  },
+  {
+    "id": 138,
+    "category": "Taşıma belgeleri ve mevzuat",
+    "question": "Bir taşıma operasyonunda bu konuyla ilgili en uygun uygulama hangisidir? k belgesi genel olarak hangi faaliyetle ilişkilidir?",
+    "options": [
+      "Yurtiçi eşya taşımacılığı yapan gerçek veya tüzel kişilerin yetkilendirilmesi",
+      "Sürücü sağlık muayenesi",
+      "Araç muayene istasyonu işletilmesi",
+      "Yolcu bileti satışı"
+    ],
+    "answer": 0,
+    "explanation": "K türü yetki belgeleri yurtiçi eşya taşımacılığı faaliyetleriyle ilişkilidir; tür ve kapsam faaliyete göre değişir."
+  },
+  {
+    "id": 139,
+    "category": "Taşıma belgeleri ve mevzuat",
+    "question": "Güvenli ve mevzuata uygun taşımacılık açısından hangi seçenek tercih edilmelidir? k belgesi genel olarak hangi faaliyetle ilişkilidir?",
+    "options": [
+      "Araç muayene istasyonu işletilmesi",
+      "Yolcu bileti satışı",
+      "Yurtiçi eşya taşımacılığı yapan gerçek veya tüzel kişilerin yetkilendirilmesi",
+      "Sürücü sağlık muayenesi"
+    ],
+    "answer": 2,
+    "explanation": "K türü yetki belgeleri yurtiçi eşya taşımacılığı faaliyetleriyle ilişkilidir; tür ve kapsam faaliyete göre değişir."
+  },
+  {
+    "id": 140,
+    "category": "Taşıma belgeleri ve mevzuat",
+    "question": "Aşağıdaki ifadelerden hangisi doğru kabul edilir? k belgesi genel olarak hangi faaliyetle ilişkilidir?",
+    "options": [
+      "Yurtiçi eşya taşımacılığı yapan gerçek veya tüzel kişilerin yetkilendirilmesi",
+      "Sürücü sağlık muayenesi",
+      "Araç muayene istasyonu işletilmesi",
+      "Yolcu bileti satışı"
+    ],
+    "answer": 0,
+    "explanation": "K türü yetki belgeleri yurtiçi eşya taşımacılığı faaliyetleriyle ilişkilidir; tür ve kapsam faaliyete göre değişir."
+  },
+  {
+    "id": 141,
+    "category": "Taşıma belgeleri ve mevzuat",
+    "question": "Taşınan eşyanın tesliminde alıcıdan alınan imza neyi destekler?",
+    "options": [
+      "Aracın muayenesini",
+      "Sürücünün ehliyet sınıfını",
+      "Yakıt alımını",
+      "Teslimin kayıt altına alınmasını"
+    ],
+    "answer": 3,
+    "explanation": "Teslim kaydı, gönderinin kime ve ne zaman teslim edildiğinin izlenmesini sağlar."
+  },
+  {
+    "id": 142,
+    "category": "Taşıma belgeleri ve mevzuat",
+    "question": "SRC4 sınavına hazırlanan bir sürücü için aşağıdakilerden hangisi doğrudur? taşınan eşyanın tesliminde alıcıdan alınan imza neyi destekler?",
+    "options": [
+      "Yakıt alımını",
+      "Teslimin kayıt altına alınmasını",
+      "Aracın muayenesini",
+      "Sürücünün ehliyet sınıfını"
+    ],
+    "answer": 1,
+    "explanation": "Teslim kaydı, gönderinin kime ve ne zaman teslim edildiğinin izlenmesini sağlar."
+  },
+  {
+    "id": 143,
+    "category": "Taşıma belgeleri ve mevzuat",
+    "question": "Bir taşıma operasyonunda bu konuyla ilgili en uygun uygulama hangisidir? taşınan eşyanın tesliminde alıcıdan alınan imza neyi destekler?",
+    "options": [
+      "Aracın muayenesini",
+      "Sürücünün ehliyet sınıfını",
+      "Yakıt alımını",
+      "Teslimin kayıt altına alınmasını"
+    ],
+    "answer": 3,
+    "explanation": "Teslim kaydı, gönderinin kime ve ne zaman teslim edildiğinin izlenmesini sağlar."
+  },
+  {
+    "id": 144,
+    "category": "Taşıma belgeleri ve mevzuat",
+    "question": "Güvenli ve mevzuata uygun taşımacılık açısından hangi seçenek tercih edilmelidir? taşınan eşyanın tesliminde alıcıdan alınan imza neyi destekler?",
+    "options": [
+      "Yakıt alımını",
+      "Teslimin kayıt altına alınmasını",
+      "Aracın muayenesini",
+      "Sürücünün ehliyet sınıfını"
+    ],
+    "answer": 1,
+    "explanation": "Teslim kaydı, gönderinin kime ve ne zaman teslim edildiğinin izlenmesini sağlar."
+  },
+  {
+    "id": 145,
+    "category": "Taşıma belgeleri ve mevzuat",
+    "question": "Aşağıdaki ifadelerden hangisi doğru kabul edilir? taşınan eşyanın tesliminde alıcıdan alınan imza neyi destekler?",
+    "options": [
+      "Aracın muayenesini",
+      "Sürücünün ehliyet sınıfını",
+      "Yakıt alımını",
+      "Teslimin kayıt altına alınmasını"
+    ],
+    "answer": 3,
+    "explanation": "Teslim kaydı, gönderinin kime ve ne zaman teslim edildiğinin izlenmesini sağlar."
+  },
+  {
+    "id": 146,
+    "category": "Taşıma belgeleri ve mevzuat",
+    "question": "Taşıma evrakındaki bilgiler ile fiilî yük arasında uyumsuzluk görülürse ne yapılmalıdır?",
+    "options": [
+      "Belgeyi imha etmek",
+      "Yükü gizlemek",
+      "Sevkiyat öncesi yetkili birimle doğrulayıp düzeltmek",
+      "Uyumsuzluğu görmezden gelmek"
+    ],
+    "answer": 2,
+    "explanation": "Belge ve yük bilgilerinin tutarlı olması izlenebilirlik ve mevzuata uyum açısından önemlidir."
+  },
+  {
+    "id": 147,
+    "category": "Taşıma belgeleri ve mevzuat",
+    "question": "SRC4 sınavına hazırlanan bir sürücü için aşağıdakilerden hangisi doğrudur? taşıma evrakındaki bilgiler ile fiilî yük arasında uyumsuzluk görülürse ne yapılmalıdır?",
+    "options": [
+      "Sevkiyat öncesi yetkili birimle doğrulayıp düzeltmek",
+      "Uyumsuzluğu görmezden gelmek",
+      "Belgeyi imha etmek",
+      "Yükü gizlemek"
+    ],
+    "answer": 0,
+    "explanation": "Belge ve yük bilgilerinin tutarlı olması izlenebilirlik ve mevzuata uyum açısından önemlidir."
+  },
+  {
+    "id": 148,
+    "category": "Taşıma belgeleri ve mevzuat",
+    "question": "Bir taşıma operasyonunda bu konuyla ilgili en uygun uygulama hangisidir? taşıma evrakındaki bilgiler ile fiilî yük arasında uyumsuzluk görülürse ne yapılmalıdır?",
+    "options": [
+      "Belgeyi imha etmek",
+      "Yükü gizlemek",
+      "Sevkiyat öncesi yetkili birimle doğrulayıp düzeltmek",
+      "Uyumsuzluğu görmezden gelmek"
+    ],
+    "answer": 2,
+    "explanation": "Belge ve yük bilgilerinin tutarlı olması izlenebilirlik ve mevzuata uyum açısından önemlidir."
+  },
+  {
+    "id": 149,
+    "category": "Taşıma belgeleri ve mevzuat",
+    "question": "Güvenli ve mevzuata uygun taşımacılık açısından hangi seçenek tercih edilmelidir? taşıma evrakındaki bilgiler ile fiilî yük arasında uyumsuzluk görülürse ne yapılmalıdır?",
+    "options": [
+      "Sevkiyat öncesi yetkili birimle doğrulayıp düzeltmek",
+      "Uyumsuzluğu görmezden gelmek",
+      "Belgeyi imha etmek",
+      "Yükü gizlemek"
+    ],
+    "answer": 0,
+    "explanation": "Belge ve yük bilgilerinin tutarlı olması izlenebilirlik ve mevzuata uyum açısından önemlidir."
+  },
+  {
+    "id": 150,
+    "category": "Taşıma belgeleri ve mevzuat",
+    "question": "Aşağıdaki ifadelerden hangisi doğru kabul edilir? taşıma evrakındaki bilgiler ile fiilî yük arasında uyumsuzluk görülürse ne yapılmalıdır?",
+    "options": [
+      "Belgeyi imha etmek",
+      "Yükü gizlemek",
+      "Sevkiyat öncesi yetkili birimle doğrulayıp düzeltmek",
+      "Uyumsuzluğu görmezden gelmek"
+    ],
+    "answer": 2,
+    "explanation": "Belge ve yük bilgilerinin tutarlı olması izlenebilirlik ve mevzuata uyum açısından önemlidir."
+  },
+  {
+    "id": 151,
+    "category": "İş sağlığı, güvenliği ve çalışma düzeni",
+    "question": "Sürücünün uzun süre araç kullanırken düzenli mola vermesinin temel nedeni nedir?",
+    "options": [
+      "Lastik ömrünü uzatmak",
+      "Yorgunluk ve dikkat kaybını azaltmak",
+      "Motor gücünü artırmak",
+      "Yük ağırlığını azaltmak"
+    ],
+    "answer": 1,
+    "explanation": "Dinlenme, dikkat ve tepki süresini korumaya yardımcı olur; mevzuattaki sürüş ve dinlenme sürelerine uyulmalıdır."
+  },
+  {
+    "id": 152,
+    "category": "İş sağlığı, güvenliği ve çalışma düzeni",
+    "question": "SRC4 sınavına hazırlanan bir sürücü için aşağıdakilerden hangisi doğrudur? sürücünün uzun süre araç kullanırken düzenli mola vermesinin temel nedeni nedir?",
+    "options": [
+      "Motor gücünü artırmak",
+      "Yük ağırlığını azaltmak",
+      "Lastik ömrünü uzatmak",
+      "Yorgunluk ve dikkat kaybını azaltmak"
+    ],
+    "answer": 3,
+    "explanation": "Dinlenme, dikkat ve tepki süresini korumaya yardımcı olur; mevzuattaki sürüş ve dinlenme sürelerine uyulmalıdır."
+  },
+  {
+    "id": 153,
+    "category": "İş sağlığı, güvenliği ve çalışma düzeni",
+    "question": "Bir taşıma operasyonunda bu konuyla ilgili en uygun uygulama hangisidir? sürücünün uzun süre araç kullanırken düzenli mola vermesinin temel nedeni nedir?",
+    "options": [
+      "Lastik ömrünü uzatmak",
+      "Yorgunluk ve dikkat kaybını azaltmak",
+      "Motor gücünü artırmak",
+      "Yük ağırlığını azaltmak"
+    ],
+    "answer": 1,
+    "explanation": "Dinlenme, dikkat ve tepki süresini korumaya yardımcı olur; mevzuattaki sürüş ve dinlenme sürelerine uyulmalıdır."
+  },
+  {
+    "id": 154,
+    "category": "İş sağlığı, güvenliği ve çalışma düzeni",
+    "question": "Güvenli ve mevzuata uygun taşımacılık açısından hangi seçenek tercih edilmelidir? sürücünün uzun süre araç kullanırken düzenli mola vermesinin temel nedeni nedir?",
+    "options": [
+      "Motor gücünü artırmak",
+      "Yük ağırlığını azaltmak",
+      "Lastik ömrünü uzatmak",
+      "Yorgunluk ve dikkat kaybını azaltmak"
+    ],
+    "answer": 3,
+    "explanation": "Dinlenme, dikkat ve tepki süresini korumaya yardımcı olur; mevzuattaki sürüş ve dinlenme sürelerine uyulmalıdır."
+  },
+  {
+    "id": 155,
+    "category": "İş sağlığı, güvenliği ve çalışma düzeni",
+    "question": "Aşağıdaki ifadelerden hangisi doğru kabul edilir? sürücünün uzun süre araç kullanırken düzenli mola vermesinin temel nedeni nedir?",
+    "options": [
+      "Lastik ömrünü uzatmak",
+      "Yorgunluk ve dikkat kaybını azaltmak",
+      "Motor gücünü artırmak",
+      "Yük ağırlığını azaltmak"
+    ],
+    "answer": 1,
+    "explanation": "Dinlenme, dikkat ve tepki süresini korumaya yardımcı olur; mevzuattaki sürüş ve dinlenme sürelerine uyulmalıdır."
+  },
+  {
+    "id": 156,
+    "category": "İş sağlığı, güvenliği ve çalışma düzeni",
+    "question": "Araç çevresinde yükleme yapılırken reflektif yelek kullanımı ne sağlar?",
+    "options": [
+      "Sürücünün ve çalışanın görünürlüğünü artırır",
+      "Aracın fren mesafesini kısaltır",
+      "Yükün ağırlığını azaltır",
+      "Motoru soğutur"
+    ],
+    "answer": 0,
+    "explanation": "Yükleme alanında görünürlük, çarpma ve ezilme risklerini azaltmaya yardımcı olur."
+  },
+  {
+    "id": 157,
+    "category": "İş sağlığı, güvenliği ve çalışma düzeni",
+    "question": "SRC4 sınavına hazırlanan bir sürücü için aşağıdakilerden hangisi doğrudur? araç çevresinde yükleme yapılırken reflektif yelek kullanımı ne sağlar?",
+    "options": [
+      "Yükün ağırlığını azaltır",
+      "Motoru soğutur",
+      "Sürücünün ve çalışanın görünürlüğünü artırır",
+      "Aracın fren mesafesini kısaltır"
+    ],
+    "answer": 2,
+    "explanation": "Yükleme alanında görünürlük, çarpma ve ezilme risklerini azaltmaya yardımcı olur."
+  },
+  {
+    "id": 158,
+    "category": "İş sağlığı, güvenliği ve çalışma düzeni",
+    "question": "Bir taşıma operasyonunda bu konuyla ilgili en uygun uygulama hangisidir? araç çevresinde yükleme yapılırken reflektif yelek kullanımı ne sağlar?",
+    "options": [
+      "Sürücünün ve çalışanın görünürlüğünü artırır",
+      "Aracın fren mesafesini kısaltır",
+      "Yükün ağırlığını azaltır",
+      "Motoru soğutur"
+    ],
+    "answer": 0,
+    "explanation": "Yükleme alanında görünürlük, çarpma ve ezilme risklerini azaltmaya yardımcı olur."
+  },
+  {
+    "id": 159,
+    "category": "İş sağlığı, güvenliği ve çalışma düzeni",
+    "question": "Güvenli ve mevzuata uygun taşımacılık açısından hangi seçenek tercih edilmelidir? araç çevresinde yükleme yapılırken reflektif yelek kullanımı ne sağlar?",
+    "options": [
+      "Yükün ağırlığını azaltır",
+      "Motoru soğutur",
+      "Sürücünün ve çalışanın görünürlüğünü artırır",
+      "Aracın fren mesafesini kısaltır"
+    ],
+    "answer": 2,
+    "explanation": "Yükleme alanında görünürlük, çarpma ve ezilme risklerini azaltmaya yardımcı olur."
+  },
+  {
+    "id": 160,
+    "category": "İş sağlığı, güvenliği ve çalışma düzeni",
+    "question": "Aşağıdaki ifadelerden hangisi doğru kabul edilir? araç çevresinde yükleme yapılırken reflektif yelek kullanımı ne sağlar?",
+    "options": [
+      "Sürücünün ve çalışanın görünürlüğünü artırır",
+      "Aracın fren mesafesini kısaltır",
+      "Yükün ağırlığını azaltır",
+      "Motoru soğutur"
+    ],
+    "answer": 0,
+    "explanation": "Yükleme alanında görünürlük, çarpma ve ezilme risklerini azaltmaya yardımcı olur."
+  },
+  {
+    "id": 161,
+    "category": "İş sağlığı, güvenliği ve çalışma düzeni",
+    "question": "Geri manevra sırasında görüş kısıtlıysa en güvenli yöntem hangisidir?",
+    "options": [
+      "Hızlıca geri gitmek",
+      "Sadece korna çalmak",
+      "Aynalara bakmadan ilerlemek",
+      "Gerekirse işaretçi desteği alıp kontrollü manevra yapmak"
+    ],
+    "answer": 3,
+    "explanation": "Görüşün yetersiz olduğu durumlarda güvenli alan kontrolü ve işaretçi desteği önemlidir."
+  },
+  {
+    "id": 162,
+    "category": "İş sağlığı, güvenliği ve çalışma düzeni",
+    "question": "SRC4 sınavına hazırlanan bir sürücü için aşağıdakilerden hangisi doğrudur? geri manevra sırasında görüş kısıtlıysa en güvenli yöntem hangisidir?",
+    "options": [
+      "Aynalara bakmadan ilerlemek",
+      "Gerekirse işaretçi desteği alıp kontrollü manevra yapmak",
+      "Hızlıca geri gitmek",
+      "Sadece korna çalmak"
+    ],
+    "answer": 1,
+    "explanation": "Görüşün yetersiz olduğu durumlarda güvenli alan kontrolü ve işaretçi desteği önemlidir."
+  },
+  {
+    "id": 163,
+    "category": "İş sağlığı, güvenliği ve çalışma düzeni",
+    "question": "Bir taşıma operasyonunda bu konuyla ilgili en uygun uygulama hangisidir? geri manevra sırasında görüş kısıtlıysa en güvenli yöntem hangisidir?",
+    "options": [
+      "Hızlıca geri gitmek",
+      "Sadece korna çalmak",
+      "Aynalara bakmadan ilerlemek",
+      "Gerekirse işaretçi desteği alıp kontrollü manevra yapmak"
+    ],
+    "answer": 3,
+    "explanation": "Görüşün yetersiz olduğu durumlarda güvenli alan kontrolü ve işaretçi desteği önemlidir."
+  },
+  {
+    "id": 164,
+    "category": "İş sağlığı, güvenliği ve çalışma düzeni",
+    "question": "Güvenli ve mevzuata uygun taşımacılık açısından hangi seçenek tercih edilmelidir? geri manevra sırasında görüş kısıtlıysa en güvenli yöntem hangisidir?",
+    "options": [
+      "Aynalara bakmadan ilerlemek",
+      "Gerekirse işaretçi desteği alıp kontrollü manevra yapmak",
+      "Hızlıca geri gitmek",
+      "Sadece korna çalmak"
+    ],
+    "answer": 1,
+    "explanation": "Görüşün yetersiz olduğu durumlarda güvenli alan kontrolü ve işaretçi desteği önemlidir."
+  },
+  {
+    "id": 165,
+    "category": "İş sağlığı, güvenliği ve çalışma düzeni",
+    "question": "Aşağıdaki ifadelerden hangisi doğru kabul edilir? geri manevra sırasında görüş kısıtlıysa en güvenli yöntem hangisidir?",
+    "options": [
+      "Hızlıca geri gitmek",
+      "Sadece korna çalmak",
+      "Aynalara bakmadan ilerlemek",
+      "Gerekirse işaretçi desteği alıp kontrollü manevra yapmak"
+    ],
+    "answer": 3,
+    "explanation": "Görüşün yetersiz olduğu durumlarda güvenli alan kontrolü ve işaretçi desteği önemlidir."
+  },
+  {
+    "id": 166,
+    "category": "İş sağlığı, güvenliği ve çalışma düzeni",
+    "question": "Yorgunluk belirtisi yaşayan sürücü ne yapmalıdır?",
+    "options": [
+      "Camı açıp hızlanmalıdır",
+      "Müzik sesini artırmalıdır",
+      "Güvenli yerde durup dinlenmelidir",
+      "Kafein alıp kesintisiz sürmelidir"
+    ],
+    "answer": 2,
+    "explanation": "Yorgunluk sürüş performansını düşürür; dinlenmeden yola devam edilmemelidir."
+  },
+  {
+    "id": 167,
+    "category": "İş sağlığı, güvenliği ve çalışma düzeni",
+    "question": "SRC4 sınavına hazırlanan bir sürücü için aşağıdakilerden hangisi doğrudur? yorgunluk belirtisi yaşayan sürücü ne yapmalıdır?",
+    "options": [
+      "Güvenli yerde durup dinlenmelidir",
+      "Kafein alıp kesintisiz sürmelidir",
+      "Camı açıp hızlanmalıdır",
+      "Müzik sesini artırmalıdır"
+    ],
+    "answer": 0,
+    "explanation": "Yorgunluk sürüş performansını düşürür; dinlenmeden yola devam edilmemelidir."
+  },
+  {
+    "id": 168,
+    "category": "İş sağlığı, güvenliği ve çalışma düzeni",
+    "question": "Bir taşıma operasyonunda bu konuyla ilgili en uygun uygulama hangisidir? yorgunluk belirtisi yaşayan sürücü ne yapmalıdır?",
+    "options": [
+      "Camı açıp hızlanmalıdır",
+      "Müzik sesini artırmalıdır",
+      "Güvenli yerde durup dinlenmelidir",
+      "Kafein alıp kesintisiz sürmelidir"
+    ],
+    "answer": 2,
+    "explanation": "Yorgunluk sürüş performansını düşürür; dinlenmeden yola devam edilmemelidir."
+  },
+  {
+    "id": 169,
+    "category": "İş sağlığı, güvenliği ve çalışma düzeni",
+    "question": "Güvenli ve mevzuata uygun taşımacılık açısından hangi seçenek tercih edilmelidir? yorgunluk belirtisi yaşayan sürücü ne yapmalıdır?",
+    "options": [
+      "Güvenli yerde durup dinlenmelidir",
+      "Kafein alıp kesintisiz sürmelidir",
+      "Camı açıp hızlanmalıdır",
+      "Müzik sesini artırmalıdır"
+    ],
+    "answer": 0,
+    "explanation": "Yorgunluk sürüş performansını düşürür; dinlenmeden yola devam edilmemelidir."
+  },
+  {
+    "id": 170,
+    "category": "İş sağlığı, güvenliği ve çalışma düzeni",
+    "question": "Aşağıdaki ifadelerden hangisi doğru kabul edilir? yorgunluk belirtisi yaşayan sürücü ne yapmalıdır?",
+    "options": [
+      "Camı açıp hızlanmalıdır",
+      "Müzik sesini artırmalıdır",
+      "Güvenli yerde durup dinlenmelidir",
+      "Kafein alıp kesintisiz sürmelidir"
+    ],
+    "answer": 2,
+    "explanation": "Yorgunluk sürüş performansını düşürür; dinlenmeden yola devam edilmemelidir."
+  },
+  {
+    "id": 171,
+    "category": "İş sağlığı, güvenliği ve çalışma düzeni",
+    "question": "Kişisel koruyucu donanım hangi durumda kullanılmalıdır?",
+    "options": [
+      "İsteğe bağlı olarak her zaman çıkarılarak",
+      "Risk değerlendirmesi ve iş talimatlarının gerektirdiği işlerde",
+      "Yalnızca denetim sırasında",
+      "Sadece yeni ekipmanda"
+    ],
+    "answer": 1,
+    "explanation": "Uygun KKD, belirlenen tehlikelere karşı son koruma katmanlarından biridir."
+  },
+  {
+    "id": 172,
+    "category": "İş sağlığı, güvenliği ve çalışma düzeni",
+    "question": "SRC4 sınavına hazırlanan bir sürücü için aşağıdakilerden hangisi doğrudur? kişisel koruyucu donanım hangi durumda kullanılmalıdır?",
+    "options": [
+      "Yalnızca denetim sırasında",
+      "Sadece yeni ekipmanda",
+      "İsteğe bağlı olarak her zaman çıkarılarak",
+      "Risk değerlendirmesi ve iş talimatlarının gerektirdiği işlerde"
+    ],
+    "answer": 3,
+    "explanation": "Uygun KKD, belirlenen tehlikelere karşı son koruma katmanlarından biridir."
+  },
+  {
+    "id": 173,
+    "category": "İş sağlığı, güvenliği ve çalışma düzeni",
+    "question": "Bir taşıma operasyonunda bu konuyla ilgili en uygun uygulama hangisidir? kişisel koruyucu donanım hangi durumda kullanılmalıdır?",
+    "options": [
+      "İsteğe bağlı olarak her zaman çıkarılarak",
+      "Risk değerlendirmesi ve iş talimatlarının gerektirdiği işlerde",
+      "Yalnızca denetim sırasında",
+      "Sadece yeni ekipmanda"
+    ],
+    "answer": 1,
+    "explanation": "Uygun KKD, belirlenen tehlikelere karşı son koruma katmanlarından biridir."
+  },
+  {
+    "id": 174,
+    "category": "İş sağlığı, güvenliği ve çalışma düzeni",
+    "question": "Güvenli ve mevzuata uygun taşımacılık açısından hangi seçenek tercih edilmelidir? kişisel koruyucu donanım hangi durumda kullanılmalıdır?",
+    "options": [
+      "Yalnızca denetim sırasında",
+      "Sadece yeni ekipmanda",
+      "İsteğe bağlı olarak her zaman çıkarılarak",
+      "Risk değerlendirmesi ve iş talimatlarının gerektirdiği işlerde"
+    ],
+    "answer": 3,
+    "explanation": "Uygun KKD, belirlenen tehlikelere karşı son koruma katmanlarından biridir."
+  },
+  {
+    "id": 175,
+    "category": "İş sağlığı, güvenliği ve çalışma düzeni",
+    "question": "Aşağıdaki ifadelerden hangisi doğru kabul edilir? kişisel koruyucu donanım hangi durumda kullanılmalıdır?",
+    "options": [
+      "İsteğe bağlı olarak her zaman çıkarılarak",
+      "Risk değerlendirmesi ve iş talimatlarının gerektirdiği işlerde",
+      "Yalnızca denetim sırasında",
+      "Sadece yeni ekipmanda"
+    ],
+    "answer": 1,
+    "explanation": "Uygun KKD, belirlenen tehlikelere karşı son koruma katmanlarından biridir."
+  },
+  {
+    "id": 176,
+    "category": "Gümrük, sigorta ve sorumluluk",
+    "question": "Zorunlu trafik sigortasının temel amacı nedir?",
+    "options": [
+      "Üçüncü kişilere verilen zararlar için poliçe kapsamındaki sorumluluğu karşılamak",
+      "Aracın tüm mekanik arızalarını karşılamak",
+      "Yakıt giderini ödemek",
+      "Sürücüye maaş sağlamak"
+    ],
+    "answer": 0,
+    "explanation": "Zorunlu mali sorumluluk sigortası, kanuni kapsam ve limitler dahilinde üçüncü kişilere verilen zararları karşılar."
+  },
+  {
+    "id": 177,
+    "category": "Gümrük, sigorta ve sorumluluk",
+    "question": "SRC4 sınavına hazırlanan bir sürücü için aşağıdakilerden hangisi doğrudur? zorunlu trafik sigortasının temel amacı nedir?",
+    "options": [
+      "Yakıt giderini ödemek",
+      "Sürücüye maaş sağlamak",
+      "Üçüncü kişilere verilen zararlar için poliçe kapsamındaki sorumluluğu karşılamak",
+      "Aracın tüm mekanik arızalarını karşılamak"
+    ],
+    "answer": 2,
+    "explanation": "Zorunlu mali sorumluluk sigortası, kanuni kapsam ve limitler dahilinde üçüncü kişilere verilen zararları karşılar."
+  },
+  {
+    "id": 178,
+    "category": "Gümrük, sigorta ve sorumluluk",
+    "question": "Bir taşıma operasyonunda bu konuyla ilgili en uygun uygulama hangisidir? zorunlu trafik sigortasının temel amacı nedir?",
+    "options": [
+      "Üçüncü kişilere verilen zararlar için poliçe kapsamındaki sorumluluğu karşılamak",
+      "Aracın tüm mekanik arızalarını karşılamak",
+      "Yakıt giderini ödemek",
+      "Sürücüye maaş sağlamak"
+    ],
+    "answer": 0,
+    "explanation": "Zorunlu mali sorumluluk sigortası, kanuni kapsam ve limitler dahilinde üçüncü kişilere verilen zararları karşılar."
+  },
+  {
+    "id": 179,
+    "category": "Gümrük, sigorta ve sorumluluk",
+    "question": "Güvenli ve mevzuata uygun taşımacılık açısından hangi seçenek tercih edilmelidir? zorunlu trafik sigortasının temel amacı nedir?",
+    "options": [
+      "Yakıt giderini ödemek",
+      "Sürücüye maaş sağlamak",
+      "Üçüncü kişilere verilen zararlar için poliçe kapsamındaki sorumluluğu karşılamak",
+      "Aracın tüm mekanik arızalarını karşılamak"
+    ],
+    "answer": 2,
+    "explanation": "Zorunlu mali sorumluluk sigortası, kanuni kapsam ve limitler dahilinde üçüncü kişilere verilen zararları karşılar."
+  },
+  {
+    "id": 180,
+    "category": "Gümrük, sigorta ve sorumluluk",
+    "question": "Aşağıdaki ifadelerden hangisi doğru kabul edilir? zorunlu trafik sigortasının temel amacı nedir?",
+    "options": [
+      "Üçüncü kişilere verilen zararlar için poliçe kapsamındaki sorumluluğu karşılamak",
+      "Aracın tüm mekanik arızalarını karşılamak",
+      "Yakıt giderini ödemek",
+      "Sürücüye maaş sağlamak"
+    ],
+    "answer": 0,
+    "explanation": "Zorunlu mali sorumluluk sigortası, kanuni kapsam ve limitler dahilinde üçüncü kişilere verilen zararları karşılar."
+  },
+  {
+    "id": 181,
+    "category": "Gümrük, sigorta ve sorumluluk",
+    "question": "Kasko sigortası ile zorunlu trafik sigortası arasındaki temel fark nedir?",
+    "options": [
+      "İkisi tamamen aynıdır",
+      "Kasko yalnızca yolcu biletini karşılar",
+      "Trafik sigortası yalnızca motor yağını karşılar",
+      "Kasko, poliçe kapsamına göre sigortalı aracın kendi zararlarını da güvenceye alabilir"
+    ],
+    "answer": 3,
+    "explanation": "Kasko isteğe bağlı araç sigortasıdır; teminatlar poliçe şartlarına göre belirlenir."
+  },
+  {
+    "id": 182,
+    "category": "Gümrük, sigorta ve sorumluluk",
+    "question": "SRC4 sınavına hazırlanan bir sürücü için aşağıdakilerden hangisi doğrudur? kasko sigortası ile zorunlu trafik sigortası arasındaki temel fark nedir?",
+    "options": [
+      "Trafik sigortası yalnızca motor yağını karşılar",
+      "Kasko, poliçe kapsamına göre sigortalı aracın kendi zararlarını da güvenceye alabilir",
+      "İkisi tamamen aynıdır",
+      "Kasko yalnızca yolcu biletini karşılar"
+    ],
+    "answer": 1,
+    "explanation": "Kasko isteğe bağlı araç sigortasıdır; teminatlar poliçe şartlarına göre belirlenir."
+  },
+  {
+    "id": 183,
+    "category": "Gümrük, sigorta ve sorumluluk",
+    "question": "Bir taşıma operasyonunda bu konuyla ilgili en uygun uygulama hangisidir? kasko sigortası ile zorunlu trafik sigortası arasındaki temel fark nedir?",
+    "options": [
+      "İkisi tamamen aynıdır",
+      "Kasko yalnızca yolcu biletini karşılar",
+      "Trafik sigortası yalnızca motor yağını karşılar",
+      "Kasko, poliçe kapsamına göre sigortalı aracın kendi zararlarını da güvenceye alabilir"
+    ],
+    "answer": 3,
+    "explanation": "Kasko isteğe bağlı araç sigortasıdır; teminatlar poliçe şartlarına göre belirlenir."
+  },
+  {
+    "id": 184,
+    "category": "Gümrük, sigorta ve sorumluluk",
+    "question": "Güvenli ve mevzuata uygun taşımacılık açısından hangi seçenek tercih edilmelidir? kasko sigortası ile zorunlu trafik sigortası arasındaki temel fark nedir?",
+    "options": [
+      "Trafik sigortası yalnızca motor yağını karşılar",
+      "Kasko, poliçe kapsamına göre sigortalı aracın kendi zararlarını da güvenceye alabilir",
+      "İkisi tamamen aynıdır",
+      "Kasko yalnızca yolcu biletini karşılar"
+    ],
+    "answer": 1,
+    "explanation": "Kasko isteğe bağlı araç sigortasıdır; teminatlar poliçe şartlarına göre belirlenir."
+  },
+  {
+    "id": 185,
+    "category": "Gümrük, sigorta ve sorumluluk",
+    "question": "Aşağıdaki ifadelerden hangisi doğru kabul edilir? kasko sigortası ile zorunlu trafik sigortası arasındaki temel fark nedir?",
+    "options": [
+      "İkisi tamamen aynıdır",
+      "Kasko yalnızca yolcu biletini karşılar",
+      "Trafik sigortası yalnızca motor yağını karşılar",
+      "Kasko, poliçe kapsamına göre sigortalı aracın kendi zararlarını da güvenceye alabilir"
+    ],
+    "answer": 3,
+    "explanation": "Kasko isteğe bağlı araç sigortasıdır; teminatlar poliçe şartlarına göre belirlenir."
+  },
+  {
+    "id": 186,
+    "category": "Gümrük, sigorta ve sorumluluk",
+    "question": "Taşınan eşyanın hasar görmesi halinde ilk yapılması gerekenlerden biri nedir?",
+    "options": [
+      "Eşyayı belgesiz teslim etmek",
+      "Taşıma evrakını değiştirmek",
+      "Hasarı kayıt altına alıp ilgili taraflara bildirmek",
+      "Hasarı gizlemek"
+    ],
+    "answer": 2,
+    "explanation": "Hasar tespiti, fotoğraf ve tutanak gibi kayıtlar sürecin doğru yürütülmesini sağlar."
+  },
+  {
+    "id": 187,
+    "category": "Gümrük, sigorta ve sorumluluk",
+    "question": "SRC4 sınavına hazırlanan bir sürücü için aşağıdakilerden hangisi doğrudur? taşınan eşyanın hasar görmesi halinde ilk yapılması gerekenlerden biri nedir?",
+    "options": [
+      "Hasarı kayıt altına alıp ilgili taraflara bildirmek",
+      "Hasarı gizlemek",
+      "Eşyayı belgesiz teslim etmek",
+      "Taşıma evrakını değiştirmek"
+    ],
+    "answer": 0,
+    "explanation": "Hasar tespiti, fotoğraf ve tutanak gibi kayıtlar sürecin doğru yürütülmesini sağlar."
+  },
+  {
+    "id": 188,
+    "category": "Gümrük, sigorta ve sorumluluk",
+    "question": "Bir taşıma operasyonunda bu konuyla ilgili en uygun uygulama hangisidir? taşınan eşyanın hasar görmesi halinde ilk yapılması gerekenlerden biri nedir?",
+    "options": [
+      "Eşyayı belgesiz teslim etmek",
+      "Taşıma evrakını değiştirmek",
+      "Hasarı kayıt altına alıp ilgili taraflara bildirmek",
+      "Hasarı gizlemek"
+    ],
+    "answer": 2,
+    "explanation": "Hasar tespiti, fotoğraf ve tutanak gibi kayıtlar sürecin doğru yürütülmesini sağlar."
+  },
+  {
+    "id": 189,
+    "category": "Gümrük, sigorta ve sorumluluk",
+    "question": "Güvenli ve mevzuata uygun taşımacılık açısından hangi seçenek tercih edilmelidir? taşınan eşyanın hasar görmesi halinde ilk yapılması gerekenlerden biri nedir?",
+    "options": [
+      "Hasarı kayıt altına alıp ilgili taraflara bildirmek",
+      "Hasarı gizlemek",
+      "Eşyayı belgesiz teslim etmek",
+      "Taşıma evrakını değiştirmek"
+    ],
+    "answer": 0,
+    "explanation": "Hasar tespiti, fotoğraf ve tutanak gibi kayıtlar sürecin doğru yürütülmesini sağlar."
+  },
+  {
+    "id": 190,
+    "category": "Gümrük, sigorta ve sorumluluk",
+    "question": "Aşağıdaki ifadelerden hangisi doğru kabul edilir? taşınan eşyanın hasar görmesi halinde ilk yapılması gerekenlerden biri nedir?",
+    "options": [
+      "Eşyayı belgesiz teslim etmek",
+      "Taşıma evrakını değiştirmek",
+      "Hasarı kayıt altına alıp ilgili taraflara bildirmek",
+      "Hasarı gizlemek"
+    ],
+    "answer": 2,
+    "explanation": "Hasar tespiti, fotoğraf ve tutanak gibi kayıtlar sürecin doğru yürütülmesini sağlar."
+  },
+  {
+    "id": 191,
+    "category": "Gümrük, sigorta ve sorumluluk",
+    "question": "Gümrük işlemlerinde eşya beyanının doğru yapılması neden önemlidir?",
+    "options": [
+      "Lastik basıncını ayarlamak için",
+      "Eşyanın doğru tanımlanması ve yasal işlemlerin yürütülmesi için",
+      "Aracın hızını artırmak için",
+      "Sürücü molasını uzatmak için"
+    ],
+    "answer": 1,
+    "explanation": "Yanlış veya eksik beyan idari ve hukuki sonuçlara neden olabilir."
+  },
+  {
+    "id": 192,
+    "category": "Gümrük, sigorta ve sorumluluk",
+    "question": "SRC4 sınavına hazırlanan bir sürücü için aşağıdakilerden hangisi doğrudur? gümrük işlemlerinde eşya beyanının doğru yapılması neden önemlidir?",
+    "options": [
+      "Aracın hızını artırmak için",
+      "Sürücü molasını uzatmak için",
+      "Lastik basıncını ayarlamak için",
+      "Eşyanın doğru tanımlanması ve yasal işlemlerin yürütülmesi için"
+    ],
+    "answer": 3,
+    "explanation": "Yanlış veya eksik beyan idari ve hukuki sonuçlara neden olabilir."
+  },
+  {
+    "id": 193,
+    "category": "Gümrük, sigorta ve sorumluluk",
+    "question": "Bir taşıma operasyonunda bu konuyla ilgili en uygun uygulama hangisidir? gümrük işlemlerinde eşya beyanının doğru yapılması neden önemlidir?",
+    "options": [
+      "Lastik basıncını ayarlamak için",
+      "Eşyanın doğru tanımlanması ve yasal işlemlerin yürütülmesi için",
+      "Aracın hızını artırmak için",
+      "Sürücü molasını uzatmak için"
+    ],
+    "answer": 1,
+    "explanation": "Yanlış veya eksik beyan idari ve hukuki sonuçlara neden olabilir."
+  },
+  {
+    "id": 194,
+    "category": "Gümrük, sigorta ve sorumluluk",
+    "question": "Güvenli ve mevzuata uygun taşımacılık açısından hangi seçenek tercih edilmelidir? gümrük işlemlerinde eşya beyanının doğru yapılması neden önemlidir?",
+    "options": [
+      "Aracın hızını artırmak için",
+      "Sürücü molasını uzatmak için",
+      "Lastik basıncını ayarlamak için",
+      "Eşyanın doğru tanımlanması ve yasal işlemlerin yürütülmesi için"
+    ],
+    "answer": 3,
+    "explanation": "Yanlış veya eksik beyan idari ve hukuki sonuçlara neden olabilir."
+  },
+  {
+    "id": 195,
+    "category": "Gümrük, sigorta ve sorumluluk",
+    "question": "Aşağıdaki ifadelerden hangisi doğru kabul edilir? gümrük işlemlerinde eşya beyanının doğru yapılması neden önemlidir?",
+    "options": [
+      "Lastik basıncını ayarlamak için",
+      "Eşyanın doğru tanımlanması ve yasal işlemlerin yürütülmesi için",
+      "Aracın hızını artırmak için",
+      "Sürücü molasını uzatmak için"
+    ],
+    "answer": 1,
+    "explanation": "Yanlış veya eksik beyan idari ve hukuki sonuçlara neden olabilir."
+  },
+  {
+    "id": 196,
+    "category": "Gümrük, sigorta ve sorumluluk",
+    "question": "Taşıma sırasında mühürlü yük biriminde mühür hasarlı görülürse ne yapılmalıdır?",
+    "options": [
+      "Durumu tutanakla kayıt altına alıp yetkili makamlara bildirmek",
+      "Mührü yenileyip bildirmemek",
+      "Yükü açıp dağıtmak",
+      "Hasarı görmezden gelmek"
+    ],
+    "answer": 0,
+    "explanation": "Mühür bütünlüğü yük güvenliği ve izlenebilirlik açısından önemlidir."
+  },
+  {
+    "id": 197,
+    "category": "Gümrük, sigorta ve sorumluluk",
+    "question": "SRC4 sınavına hazırlanan bir sürücü için aşağıdakilerden hangisi doğrudur? taşıma sırasında mühürlü yük biriminde mühür hasarlı görülürse ne yapılmalıdır?",
+    "options": [
+      "Yükü açıp dağıtmak",
+      "Hasarı görmezden gelmek",
+      "Durumu tutanakla kayıt altına alıp yetkili makamlara bildirmek",
+      "Mührü yenileyip bildirmemek"
+    ],
+    "answer": 2,
+    "explanation": "Mühür bütünlüğü yük güvenliği ve izlenebilirlik açısından önemlidir."
+  },
+  {
+    "id": 198,
+    "category": "Gümrük, sigorta ve sorumluluk",
+    "question": "Bir taşıma operasyonunda bu konuyla ilgili en uygun uygulama hangisidir? taşıma sırasında mühürlü yük biriminde mühür hasarlı görülürse ne yapılmalıdır?",
+    "options": [
+      "Durumu tutanakla kayıt altına alıp yetkili makamlara bildirmek",
+      "Mührü yenileyip bildirmemek",
+      "Yükü açıp dağıtmak",
+      "Hasarı görmezden gelmek"
+    ],
+    "answer": 0,
+    "explanation": "Mühür bütünlüğü yük güvenliği ve izlenebilirlik açısından önemlidir."
+  },
+  {
+    "id": 199,
+    "category": "Gümrük, sigorta ve sorumluluk",
+    "question": "Güvenli ve mevzuata uygun taşımacılık açısından hangi seçenek tercih edilmelidir? taşıma sırasında mühürlü yük biriminde mühür hasarlı görülürse ne yapılmalıdır?",
+    "options": [
+      "Yükü açıp dağıtmak",
+      "Hasarı görmezden gelmek",
+      "Durumu tutanakla kayıt altına alıp yetkili makamlara bildirmek",
+      "Mührü yenileyip bildirmemek"
+    ],
+    "answer": 2,
+    "explanation": "Mühür bütünlüğü yük güvenliği ve izlenebilirlik açısından önemlidir."
+  },
+  {
+    "id": 200,
+    "category": "Gümrük, sigorta ve sorumluluk",
+    "question": "Aşağıdaki ifadelerden hangisi doğru kabul edilir? taşıma sırasında mühürlü yük biriminde mühür hasarlı görülürse ne yapılmalıdır?",
+    "options": [
+      "Durumu tutanakla kayıt altına alıp yetkili makamlara bildirmek",
+      "Mührü yenileyip bildirmemek",
+      "Yükü açıp dağıtmak",
+      "Hasarı görmezden gelmek"
+    ],
+    "answer": 0,
+    "explanation": "Mühür bütünlüğü yük güvenliği ve izlenebilirlik açısından önemlidir."
+  },
+  {
+    "id": 201,
+    "category": "İletişim ve mesleki davranış",
+    "question": "Müşteri şikâyeti karşısında sürücünün en uygun tutumu hangisidir?",
+    "options": [
+      "Tartışmayı büyütmek",
+      "Müşteriyi suçlamak",
+      "Şikâyeti yok saymak",
+      "Sakin dinlemek, saygılı olmak ve ilgili birime aktarmak"
+    ],
+    "answer": 3,
+    "explanation": "Profesyonel iletişim, sorunun doğru kayda alınmasını ve çözümünü kolaylaştırır."
+  },
+  {
+    "id": 202,
+    "category": "İletişim ve mesleki davranış",
+    "question": "SRC4 sınavına hazırlanan bir sürücü için aşağıdakilerden hangisi doğrudur? müşteri şikâyeti karşısında sürücünün en uygun tutumu hangisidir?",
+    "options": [
+      "Şikâyeti yok saymak",
+      "Sakin dinlemek, saygılı olmak ve ilgili birime aktarmak",
+      "Tartışmayı büyütmek",
+      "Müşteriyi suçlamak"
+    ],
+    "answer": 1,
+    "explanation": "Profesyonel iletişim, sorunun doğru kayda alınmasını ve çözümünü kolaylaştırır."
+  },
+  {
+    "id": 203,
+    "category": "İletişim ve mesleki davranış",
+    "question": "Bir taşıma operasyonunda bu konuyla ilgili en uygun uygulama hangisidir? müşteri şikâyeti karşısında sürücünün en uygun tutumu hangisidir?",
+    "options": [
+      "Tartışmayı büyütmek",
+      "Müşteriyi suçlamak",
+      "Şikâyeti yok saymak",
+      "Sakin dinlemek, saygılı olmak ve ilgili birime aktarmak"
+    ],
+    "answer": 3,
+    "explanation": "Profesyonel iletişim, sorunun doğru kayda alınmasını ve çözümünü kolaylaştırır."
+  },
+  {
+    "id": 204,
+    "category": "İletişim ve mesleki davranış",
+    "question": "Güvenli ve mevzuata uygun taşımacılık açısından hangi seçenek tercih edilmelidir? müşteri şikâyeti karşısında sürücünün en uygun tutumu hangisidir?",
+    "options": [
+      "Şikâyeti yok saymak",
+      "Sakin dinlemek, saygılı olmak ve ilgili birime aktarmak",
+      "Tartışmayı büyütmek",
+      "Müşteriyi suçlamak"
+    ],
+    "answer": 1,
+    "explanation": "Profesyonel iletişim, sorunun doğru kayda alınmasını ve çözümünü kolaylaştırır."
+  },
+  {
+    "id": 205,
+    "category": "İletişim ve mesleki davranış",
+    "question": "Aşağıdaki ifadelerden hangisi doğru kabul edilir? müşteri şikâyeti karşısında sürücünün en uygun tutumu hangisidir?",
+    "options": [
+      "Tartışmayı büyütmek",
+      "Müşteriyi suçlamak",
+      "Şikâyeti yok saymak",
+      "Sakin dinlemek, saygılı olmak ve ilgili birime aktarmak"
+    ],
+    "answer": 3,
+    "explanation": "Profesyonel iletişim, sorunun doğru kayda alınmasını ve çözümünü kolaylaştırır."
+  },
+  {
+    "id": 206,
+    "category": "İletişim ve mesleki davranış",
+    "question": "Teslimat gecikmesi öngörüldüğünde kime bilgi verilmelidir?",
+    "options": [
+      "Sadece diğer sürücülere",
+      "Sosyal medyaya",
+      "İşletmenin belirlediği iletişim zincirindeki ilgili kişilere",
+      "Hiç kimseye"
+    ],
+    "answer": 2,
+    "explanation": "Erken ve doğru bilgilendirme, sevkiyatın yeniden planlanmasını sağlar."
+  },
+  {
+    "id": 207,
+    "category": "İletişim ve mesleki davranış",
+    "question": "SRC4 sınavına hazırlanan bir sürücü için aşağıdakilerden hangisi doğrudur? teslimat gecikmesi öngörüldüğünde kime bilgi verilmelidir?",
+    "options": [
+      "İşletmenin belirlediği iletişim zincirindeki ilgili kişilere",
+      "Hiç kimseye",
+      "Sadece diğer sürücülere",
+      "Sosyal medyaya"
+    ],
+    "answer": 0,
+    "explanation": "Erken ve doğru bilgilendirme, sevkiyatın yeniden planlanmasını sağlar."
+  },
+  {
+    "id": 208,
+    "category": "İletişim ve mesleki davranış",
+    "question": "Bir taşıma operasyonunda bu konuyla ilgili en uygun uygulama hangisidir? teslimat gecikmesi öngörüldüğünde kime bilgi verilmelidir?",
+    "options": [
+      "Sadece diğer sürücülere",
+      "Sosyal medyaya",
+      "İşletmenin belirlediği iletişim zincirindeki ilgili kişilere",
+      "Hiç kimseye"
+    ],
+    "answer": 2,
+    "explanation": "Erken ve doğru bilgilendirme, sevkiyatın yeniden planlanmasını sağlar."
+  },
+  {
+    "id": 209,
+    "category": "İletişim ve mesleki davranış",
+    "question": "Güvenli ve mevzuata uygun taşımacılık açısından hangi seçenek tercih edilmelidir? teslimat gecikmesi öngörüldüğünde kime bilgi verilmelidir?",
+    "options": [
+      "İşletmenin belirlediği iletişim zincirindeki ilgili kişilere",
+      "Hiç kimseye",
+      "Sadece diğer sürücülere",
+      "Sosyal medyaya"
+    ],
+    "answer": 0,
+    "explanation": "Erken ve doğru bilgilendirme, sevkiyatın yeniden planlanmasını sağlar."
+  },
+  {
+    "id": 210,
+    "category": "İletişim ve mesleki davranış",
+    "question": "Aşağıdaki ifadelerden hangisi doğru kabul edilir? teslimat gecikmesi öngörüldüğünde kime bilgi verilmelidir?",
+    "options": [
+      "Sadece diğer sürücülere",
+      "Sosyal medyaya",
+      "İşletmenin belirlediği iletişim zincirindeki ilgili kişilere",
+      "Hiç kimseye"
+    ],
+    "answer": 2,
+    "explanation": "Erken ve doğru bilgilendirme, sevkiyatın yeniden planlanmasını sağlar."
+  },
+  {
+    "id": 211,
+    "category": "İletişim ve mesleki davranış",
+    "question": "Sürücü kişisel verileri içeren teslimat bilgilerini nasıl korumalıdır?",
+    "options": [
+      "Sosyal medyada yayımlamalıdır",
+      "Yetkisiz kişilerle paylaşmamalıdır",
+      "Herkese açık gruplara göndermelidir",
+      "Araç camına asmalıdır"
+    ],
+    "answer": 1,
+    "explanation": "Kişisel veriler yalnızca yetkili ve gerekli kişilerle, uygun amaçla paylaşılmalıdır."
+  },
+  {
+    "id": 212,
+    "category": "İletişim ve mesleki davranış",
+    "question": "SRC4 sınavına hazırlanan bir sürücü için aşağıdakilerden hangisi doğrudur? sürücü kişisel verileri içeren teslimat bilgilerini nasıl korumalıdır?",
+    "options": [
+      "Herkese açık gruplara göndermelidir",
+      "Araç camına asmalıdır",
+      "Sosyal medyada yayımlamalıdır",
+      "Yetkisiz kişilerle paylaşmamalıdır"
+    ],
+    "answer": 3,
+    "explanation": "Kişisel veriler yalnızca yetkili ve gerekli kişilerle, uygun amaçla paylaşılmalıdır."
+  },
+  {
+    "id": 213,
+    "category": "İletişim ve mesleki davranış",
+    "question": "Bir taşıma operasyonunda bu konuyla ilgili en uygun uygulama hangisidir? sürücü kişisel verileri içeren teslimat bilgilerini nasıl korumalıdır?",
+    "options": [
+      "Sosyal medyada yayımlamalıdır",
+      "Yetkisiz kişilerle paylaşmamalıdır",
+      "Herkese açık gruplara göndermelidir",
+      "Araç camına asmalıdır"
+    ],
+    "answer": 1,
+    "explanation": "Kişisel veriler yalnızca yetkili ve gerekli kişilerle, uygun amaçla paylaşılmalıdır."
+  },
+  {
+    "id": 214,
+    "category": "İletişim ve mesleki davranış",
+    "question": "Güvenli ve mevzuata uygun taşımacılık açısından hangi seçenek tercih edilmelidir? sürücü kişisel verileri içeren teslimat bilgilerini nasıl korumalıdır?",
+    "options": [
+      "Herkese açık gruplara göndermelidir",
+      "Araç camına asmalıdır",
+      "Sosyal medyada yayımlamalıdır",
+      "Yetkisiz kişilerle paylaşmamalıdır"
+    ],
+    "answer": 3,
+    "explanation": "Kişisel veriler yalnızca yetkili ve gerekli kişilerle, uygun amaçla paylaşılmalıdır."
+  },
+  {
+    "id": 215,
+    "category": "İletişim ve mesleki davranış",
+    "question": "Aşağıdaki ifadelerden hangisi doğru kabul edilir? sürücü kişisel verileri içeren teslimat bilgilerini nasıl korumalıdır?",
+    "options": [
+      "Sosyal medyada yayımlamalıdır",
+      "Yetkisiz kişilerle paylaşmamalıdır",
+      "Herkese açık gruplara göndermelidir",
+      "Araç camına asmalıdır"
+    ],
+    "answer": 1,
+    "explanation": "Kişisel veriler yalnızca yetkili ve gerekli kişilerle, uygun amaçla paylaşılmalıdır."
+  },
+  {
+    "id": 216,
+    "category": "İletişim ve mesleki davranış",
+    "question": "İş arkadaşına güvenli olmayan bir uygulama gördüğünde ne yapılmalıdır?",
+    "options": [
+      "Riski uygun kanaldan bildirmek ve güvenli davranışı desteklemek",
+      "Görmezden gelmek",
+      "Tehlikeli işi teşvik etmek",
+      "Kayıtları silmek"
+    ],
+    "answer": 0,
+    "explanation": "Tehlikelerin erken bildirilmesi iş kazalarını önlemeye yardımcı olur."
+  },
+  {
+    "id": 217,
+    "category": "İletişim ve mesleki davranış",
+    "question": "SRC4 sınavına hazırlanan bir sürücü için aşağıdakilerden hangisi doğrudur? i̇ş arkadaşına güvenli olmayan bir uygulama gördüğünde ne yapılmalıdır?",
+    "options": [
+      "Tehlikeli işi teşvik etmek",
+      "Kayıtları silmek",
+      "Riski uygun kanaldan bildirmek ve güvenli davranışı desteklemek",
+      "Görmezden gelmek"
+    ],
+    "answer": 2,
+    "explanation": "Tehlikelerin erken bildirilmesi iş kazalarını önlemeye yardımcı olur."
+  },
+  {
+    "id": 218,
+    "category": "İletişim ve mesleki davranış",
+    "question": "Bir taşıma operasyonunda bu konuyla ilgili en uygun uygulama hangisidir? i̇ş arkadaşına güvenli olmayan bir uygulama gördüğünde ne yapılmalıdır?",
+    "options": [
+      "Riski uygun kanaldan bildirmek ve güvenli davranışı desteklemek",
+      "Görmezden gelmek",
+      "Tehlikeli işi teşvik etmek",
+      "Kayıtları silmek"
+    ],
+    "answer": 0,
+    "explanation": "Tehlikelerin erken bildirilmesi iş kazalarını önlemeye yardımcı olur."
+  },
+  {
+    "id": 219,
+    "category": "İletişim ve mesleki davranış",
+    "question": "Güvenli ve mevzuata uygun taşımacılık açısından hangi seçenek tercih edilmelidir? i̇ş arkadaşına güvenli olmayan bir uygulama gördüğünde ne yapılmalıdır?",
+    "options": [
+      "Tehlikeli işi teşvik etmek",
+      "Kayıtları silmek",
+      "Riski uygun kanaldan bildirmek ve güvenli davranışı desteklemek",
+      "Görmezden gelmek"
+    ],
+    "answer": 2,
+    "explanation": "Tehlikelerin erken bildirilmesi iş kazalarını önlemeye yardımcı olur."
+  },
+  {
+    "id": 220,
+    "category": "İletişim ve mesleki davranış",
+    "question": "Aşağıdaki ifadelerden hangisi doğru kabul edilir? i̇ş arkadaşına güvenli olmayan bir uygulama gördüğünde ne yapılmalıdır?",
+    "options": [
+      "Riski uygun kanaldan bildirmek ve güvenli davranışı desteklemek",
+      "Görmezden gelmek",
+      "Tehlikeli işi teşvik etmek",
+      "Kayıtları silmek"
+    ],
+    "answer": 0,
+    "explanation": "Tehlikelerin erken bildirilmesi iş kazalarını önlemeye yardımcı olur."
+  },
+  {
+    "id": 221,
+    "category": "İletişim ve mesleki davranış",
+    "question": "Mesleki etik açısından aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "Teslim saatini geriye dönük değiştirmek",
+      "Hasarı saklamak",
+      "Yetkisiz imza kullanmak",
+      "Taşıma kayıtlarını doğru ve gerçeğe uygun tutmak"
+    ],
+    "answer": 3,
+    "explanation": "Doğru kayıt, güven ve hesap verebilirlik için temel ilkedir."
+  },
+  {
+    "id": 222,
+    "category": "İletişim ve mesleki davranış",
+    "question": "SRC4 sınavına hazırlanan bir sürücü için aşağıdakilerden hangisi doğrudur? mesleki etik açısından aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "Yetkisiz imza kullanmak",
+      "Taşıma kayıtlarını doğru ve gerçeğe uygun tutmak",
+      "Teslim saatini geriye dönük değiştirmek",
+      "Hasarı saklamak"
+    ],
+    "answer": 1,
+    "explanation": "Doğru kayıt, güven ve hesap verebilirlik için temel ilkedir."
+  },
+  {
+    "id": 223,
+    "category": "İletişim ve mesleki davranış",
+    "question": "Bir taşıma operasyonunda bu konuyla ilgili en uygun uygulama hangisidir? mesleki etik açısından aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "Teslim saatini geriye dönük değiştirmek",
+      "Hasarı saklamak",
+      "Yetkisiz imza kullanmak",
+      "Taşıma kayıtlarını doğru ve gerçeğe uygun tutmak"
+    ],
+    "answer": 3,
+    "explanation": "Doğru kayıt, güven ve hesap verebilirlik için temel ilkedir."
+  },
+  {
+    "id": 224,
+    "category": "İletişim ve mesleki davranış",
+    "question": "Güvenli ve mevzuata uygun taşımacılık açısından hangi seçenek tercih edilmelidir? mesleki etik açısından aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "Yetkisiz imza kullanmak",
+      "Taşıma kayıtlarını doğru ve gerçeğe uygun tutmak",
+      "Teslim saatini geriye dönük değiştirmek",
+      "Hasarı saklamak"
+    ],
+    "answer": 1,
+    "explanation": "Doğru kayıt, güven ve hesap verebilirlik için temel ilkedir."
+  },
+  {
+    "id": 225,
+    "category": "İletişim ve mesleki davranış",
+    "question": "Aşağıdaki ifadelerden hangisi doğru kabul edilir? mesleki etik açısından aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "Teslim saatini geriye dönük değiştirmek",
+      "Hasarı saklamak",
+      "Yetkisiz imza kullanmak",
+      "Taşıma kayıtlarını doğru ve gerçeğe uygun tutmak"
+    ],
+    "answer": 3,
+    "explanation": "Doğru kayıt, güven ve hesap verebilirlik için temel ilkedir."
+  },
+  {
+    "id": 226,
+    "category": "Çevre, enerji ve acil araç uygulamaları",
+    "question": "Yakıt veya yağ döküntüsü görüldüğünde ilk yaklaşım ne olmalıdır?",
+    "options": [
+      "Su kanalına süpürmek",
+      "Ateşle kurutmak",
+      "Alanı güvenli hale getirip uygun prosedürle bildirmek",
+      "Döküntünün üzerinden geçmek"
+    ],
+    "answer": 2,
+    "explanation": "Döküntüler kayma, yangın ve çevre kirliliği riski yaratır; uygun müdahale prosedürü izlenmelidir."
+  },
+  {
+    "id": 227,
+    "category": "Çevre, enerji ve acil araç uygulamaları",
+    "question": "SRC4 sınavına hazırlanan bir sürücü için aşağıdakilerden hangisi doğrudur? yakıt veya yağ döküntüsü görüldüğünde ilk yaklaşım ne olmalıdır?",
+    "options": [
+      "Alanı güvenli hale getirip uygun prosedürle bildirmek",
+      "Döküntünün üzerinden geçmek",
+      "Su kanalına süpürmek",
+      "Ateşle kurutmak"
+    ],
+    "answer": 0,
+    "explanation": "Döküntüler kayma, yangın ve çevre kirliliği riski yaratır; uygun müdahale prosedürü izlenmelidir."
+  },
+  {
+    "id": 228,
+    "category": "Çevre, enerji ve acil araç uygulamaları",
+    "question": "Bir taşıma operasyonunda bu konuyla ilgili en uygun uygulama hangisidir? yakıt veya yağ döküntüsü görüldüğünde ilk yaklaşım ne olmalıdır?",
+    "options": [
+      "Su kanalına süpürmek",
+      "Ateşle kurutmak",
+      "Alanı güvenli hale getirip uygun prosedürle bildirmek",
+      "Döküntünün üzerinden geçmek"
+    ],
+    "answer": 2,
+    "explanation": "Döküntüler kayma, yangın ve çevre kirliliği riski yaratır; uygun müdahale prosedürü izlenmelidir."
+  },
+  {
+    "id": 229,
+    "category": "Çevre, enerji ve acil araç uygulamaları",
+    "question": "Güvenli ve mevzuata uygun taşımacılık açısından hangi seçenek tercih edilmelidir? yakıt veya yağ döküntüsü görüldüğünde ilk yaklaşım ne olmalıdır?",
+    "options": [
+      "Alanı güvenli hale getirip uygun prosedürle bildirmek",
+      "Döküntünün üzerinden geçmek",
+      "Su kanalına süpürmek",
+      "Ateşle kurutmak"
+    ],
+    "answer": 0,
+    "explanation": "Döküntüler kayma, yangın ve çevre kirliliği riski yaratır; uygun müdahale prosedürü izlenmelidir."
+  },
+  {
+    "id": 230,
+    "category": "Çevre, enerji ve acil araç uygulamaları",
+    "question": "Aşağıdaki ifadelerden hangisi doğru kabul edilir? yakıt veya yağ döküntüsü görüldüğünde ilk yaklaşım ne olmalıdır?",
+    "options": [
+      "Su kanalına süpürmek",
+      "Ateşle kurutmak",
+      "Alanı güvenli hale getirip uygun prosedürle bildirmek",
+      "Döküntünün üzerinden geçmek"
+    ],
+    "answer": 2,
+    "explanation": "Döküntüler kayma, yangın ve çevre kirliliği riski yaratır; uygun müdahale prosedürü izlenmelidir."
+  },
+  {
+    "id": 231,
+    "category": "Çevre, enerji ve acil araç uygulamaları",
+    "question": "Araçta yangın belirtisi fark edildiğinde sürücü ne yapmalıdır?",
+    "options": [
+      "Yakıt deposuna su dökmek",
+      "Güvenli yerde durup motoru kapatmak, tahliye ve acil yardım prosedürünü uygulamak",
+      "Aracı kullanmaya devam etmek",
+      "Kaputu hemen tamamen açmak"
+    ],
+    "answer": 1,
+    "explanation": "Yangın durumunda kişilerin güvenliği önceliklidir; uygun söndürücü ve acil yardım prosedürü kullanılmalıdır."
+  },
+  {
+    "id": 232,
+    "category": "Çevre, enerji ve acil araç uygulamaları",
+    "question": "SRC4 sınavına hazırlanan bir sürücü için aşağıdakilerden hangisi doğrudur? araçta yangın belirtisi fark edildiğinde sürücü ne yapmalıdır?",
+    "options": [
+      "Aracı kullanmaya devam etmek",
+      "Kaputu hemen tamamen açmak",
+      "Yakıt deposuna su dökmek",
+      "Güvenli yerde durup motoru kapatmak, tahliye ve acil yardım prosedürünü uygulamak"
+    ],
+    "answer": 3,
+    "explanation": "Yangın durumunda kişilerin güvenliği önceliklidir; uygun söndürücü ve acil yardım prosedürü kullanılmalıdır."
+  },
+  {
+    "id": 233,
+    "category": "Çevre, enerji ve acil araç uygulamaları",
+    "question": "Bir taşıma operasyonunda bu konuyla ilgili en uygun uygulama hangisidir? araçta yangın belirtisi fark edildiğinde sürücü ne yapmalıdır?",
+    "options": [
+      "Yakıt deposuna su dökmek",
+      "Güvenli yerde durup motoru kapatmak, tahliye ve acil yardım prosedürünü uygulamak",
+      "Aracı kullanmaya devam etmek",
+      "Kaputu hemen tamamen açmak"
+    ],
+    "answer": 1,
+    "explanation": "Yangın durumunda kişilerin güvenliği önceliklidir; uygun söndürücü ve acil yardım prosedürü kullanılmalıdır."
+  },
+  {
+    "id": 234,
+    "category": "Çevre, enerji ve acil araç uygulamaları",
+    "question": "Güvenli ve mevzuata uygun taşımacılık açısından hangi seçenek tercih edilmelidir? araçta yangın belirtisi fark edildiğinde sürücü ne yapmalıdır?",
+    "options": [
+      "Aracı kullanmaya devam etmek",
+      "Kaputu hemen tamamen açmak",
+      "Yakıt deposuna su dökmek",
+      "Güvenli yerde durup motoru kapatmak, tahliye ve acil yardım prosedürünü uygulamak"
+    ],
+    "answer": 3,
+    "explanation": "Yangın durumunda kişilerin güvenliği önceliklidir; uygun söndürücü ve acil yardım prosedürü kullanılmalıdır."
+  },
+  {
+    "id": 235,
+    "category": "Çevre, enerji ve acil araç uygulamaları",
+    "question": "Aşağıdaki ifadelerden hangisi doğru kabul edilir? araçta yangın belirtisi fark edildiğinde sürücü ne yapmalıdır?",
+    "options": [
+      "Yakıt deposuna su dökmek",
+      "Güvenli yerde durup motoru kapatmak, tahliye ve acil yardım prosedürünü uygulamak",
+      "Aracı kullanmaya devam etmek",
+      "Kaputu hemen tamamen açmak"
+    ],
+    "answer": 1,
+    "explanation": "Yangın durumunda kişilerin güvenliği önceliklidir; uygun söndürücü ve acil yardım prosedürü kullanılmalıdır."
+  },
+  {
+    "id": 236,
+    "category": "Çevre, enerji ve acil araç uygulamaları",
+    "question": "Atık yağ ve filtreler nasıl bertaraf edilmelidir?",
+    "options": [
+      "Yetkili toplama ve geri kazanım kanallarına verilmelidir",
+      "Toprağa dökülmelidir",
+      "Evsel çöpe karıştırılmalıdır",
+      "Yağmur suyu giderine boşaltılmalıdır"
+    ],
+    "answer": 0,
+    "explanation": "Atık yağ ve filtreler çevre mevzuatına uygun şekilde toplanmalı ve yönetilmelidir."
+  },
+  {
+    "id": 237,
+    "category": "Çevre, enerji ve acil araç uygulamaları",
+    "question": "SRC4 sınavına hazırlanan bir sürücü için aşağıdakilerden hangisi doğrudur? atık yağ ve filtreler nasıl bertaraf edilmelidir?",
+    "options": [
+      "Evsel çöpe karıştırılmalıdır",
+      "Yağmur suyu giderine boşaltılmalıdır",
+      "Yetkili toplama ve geri kazanım kanallarına verilmelidir",
+      "Toprağa dökülmelidir"
+    ],
+    "answer": 2,
+    "explanation": "Atık yağ ve filtreler çevre mevzuatına uygun şekilde toplanmalı ve yönetilmelidir."
+  },
+  {
+    "id": 238,
+    "category": "Çevre, enerji ve acil araç uygulamaları",
+    "question": "Bir taşıma operasyonunda bu konuyla ilgili en uygun uygulama hangisidir? atık yağ ve filtreler nasıl bertaraf edilmelidir?",
+    "options": [
+      "Yetkili toplama ve geri kazanım kanallarına verilmelidir",
+      "Toprağa dökülmelidir",
+      "Evsel çöpe karıştırılmalıdır",
+      "Yağmur suyu giderine boşaltılmalıdır"
+    ],
+    "answer": 0,
+    "explanation": "Atık yağ ve filtreler çevre mevzuatına uygun şekilde toplanmalı ve yönetilmelidir."
+  },
+  {
+    "id": 239,
+    "category": "Çevre, enerji ve acil araç uygulamaları",
+    "question": "Güvenli ve mevzuata uygun taşımacılık açısından hangi seçenek tercih edilmelidir? atık yağ ve filtreler nasıl bertaraf edilmelidir?",
+    "options": [
+      "Evsel çöpe karıştırılmalıdır",
+      "Yağmur suyu giderine boşaltılmalıdır",
+      "Yetkili toplama ve geri kazanım kanallarına verilmelidir",
+      "Toprağa dökülmelidir"
+    ],
+    "answer": 2,
+    "explanation": "Atık yağ ve filtreler çevre mevzuatına uygun şekilde toplanmalı ve yönetilmelidir."
+  },
+  {
+    "id": 240,
+    "category": "Çevre, enerji ve acil araç uygulamaları",
+    "question": "Aşağıdaki ifadelerden hangisi doğru kabul edilir? atık yağ ve filtreler nasıl bertaraf edilmelidir?",
+    "options": [
+      "Yetkili toplama ve geri kazanım kanallarına verilmelidir",
+      "Toprağa dökülmelidir",
+      "Evsel çöpe karıştırılmalıdır",
+      "Yağmur suyu giderine boşaltılmalıdır"
+    ],
+    "answer": 0,
+    "explanation": "Atık yağ ve filtreler çevre mevzuatına uygun şekilde toplanmalı ve yönetilmelidir."
+  },
+  {
+    "id": 241,
+    "category": "Çevre, enerji ve acil araç uygulamaları",
+    "question": "Gereksiz rölantide beklemek hangi sonucu doğurabilir?",
+    "options": [
+      "Yakıtı sıfırlar",
+      "Lastik aşınmasını önler",
+      "Motoru her koşulda korur",
+      "Yakıt tüketimi ve emisyonları artırabilir"
+    ],
+    "answer": 3,
+    "explanation": "Gereksiz rölanti yakıt harcar ve egzoz emisyonu oluşturur."
+  },
+  {
+    "id": 242,
+    "category": "Çevre, enerji ve acil araç uygulamaları",
+    "question": "SRC4 sınavına hazırlanan bir sürücü için aşağıdakilerden hangisi doğrudur? gereksiz rölantide beklemek hangi sonucu doğurabilir?",
+    "options": [
+      "Motoru her koşulda korur",
+      "Yakıt tüketimi ve emisyonları artırabilir",
+      "Yakıtı sıfırlar",
+      "Lastik aşınmasını önler"
+    ],
+    "answer": 1,
+    "explanation": "Gereksiz rölanti yakıt harcar ve egzoz emisyonu oluşturur."
+  },
+  {
+    "id": 243,
+    "category": "Çevre, enerji ve acil araç uygulamaları",
+    "question": "Bir taşıma operasyonunda bu konuyla ilgili en uygun uygulama hangisidir? gereksiz rölantide beklemek hangi sonucu doğurabilir?",
+    "options": [
+      "Yakıtı sıfırlar",
+      "Lastik aşınmasını önler",
+      "Motoru her koşulda korur",
+      "Yakıt tüketimi ve emisyonları artırabilir"
+    ],
+    "answer": 3,
+    "explanation": "Gereksiz rölanti yakıt harcar ve egzoz emisyonu oluşturur."
+  },
+  {
+    "id": 244,
+    "category": "Çevre, enerji ve acil araç uygulamaları",
+    "question": "Güvenli ve mevzuata uygun taşımacılık açısından hangi seçenek tercih edilmelidir? gereksiz rölantide beklemek hangi sonucu doğurabilir?",
+    "options": [
+      "Motoru her koşulda korur",
+      "Yakıt tüketimi ve emisyonları artırabilir",
+      "Yakıtı sıfırlar",
+      "Lastik aşınmasını önler"
+    ],
+    "answer": 1,
+    "explanation": "Gereksiz rölanti yakıt harcar ve egzoz emisyonu oluşturur."
+  },
+  {
+    "id": 245,
+    "category": "Çevre, enerji ve acil araç uygulamaları",
+    "question": "Aşağıdaki ifadelerden hangisi doğru kabul edilir? gereksiz rölantide beklemek hangi sonucu doğurabilir?",
+    "options": [
+      "Yakıtı sıfırlar",
+      "Lastik aşınmasını önler",
+      "Motoru her koşulda korur",
+      "Yakıt tüketimi ve emisyonları artırabilir"
+    ],
+    "answer": 3,
+    "explanation": "Gereksiz rölanti yakıt harcar ve egzoz emisyonu oluşturur."
+  },
+  {
+    "id": 246,
+    "category": "Çevre, enerji ve acil araç uygulamaları",
+    "question": "Araç arızası nedeniyle yol kenarında durulduğunda hangi önlem önemlidir?",
+    "options": [
+      "Uyarı vermeden onarım yapmak",
+      "Yolun ortasında beklemek",
+      "Uygun uyarı işaretlerini kullanıp güvenli mesafede beklemek",
+      "Aracın arkasında durmak"
+    ],
+    "answer": 2,
+    "explanation": "Arıza halinde görünürlük ve güvenli konumlandırma ikincil kazaları önlemeye yardımcı olur."
+  },
+  {
+    "id": 247,
+    "category": "Çevre, enerji ve acil araç uygulamaları",
+    "question": "SRC4 sınavına hazırlanan bir sürücü için aşağıdakilerden hangisi doğrudur? araç arızası nedeniyle yol kenarında durulduğunda hangi önlem önemlidir?",
+    "options": [
+      "Uygun uyarı işaretlerini kullanıp güvenli mesafede beklemek",
+      "Aracın arkasında durmak",
+      "Uyarı vermeden onarım yapmak",
+      "Yolun ortasında beklemek"
+    ],
+    "answer": 0,
+    "explanation": "Arıza halinde görünürlük ve güvenli konumlandırma ikincil kazaları önlemeye yardımcı olur."
+  },
+  {
+    "id": 248,
+    "category": "Çevre, enerji ve acil araç uygulamaları",
+    "question": "Bir taşıma operasyonunda bu konuyla ilgili en uygun uygulama hangisidir? araç arızası nedeniyle yol kenarında durulduğunda hangi önlem önemlidir?",
+    "options": [
+      "Uyarı vermeden onarım yapmak",
+      "Yolun ortasında beklemek",
+      "Uygun uyarı işaretlerini kullanıp güvenli mesafede beklemek",
+      "Aracın arkasında durmak"
+    ],
+    "answer": 2,
+    "explanation": "Arıza halinde görünürlük ve güvenli konumlandırma ikincil kazaları önlemeye yardımcı olur."
+  },
+  {
+    "id": 249,
+    "category": "Çevre, enerji ve acil araç uygulamaları",
+    "question": "Güvenli ve mevzuata uygun taşımacılık açısından hangi seçenek tercih edilmelidir? araç arızası nedeniyle yol kenarında durulduğunda hangi önlem önemlidir?",
+    "options": [
+      "Uygun uyarı işaretlerini kullanıp güvenli mesafede beklemek",
+      "Aracın arkasında durmak",
+      "Uyarı vermeden onarım yapmak",
+      "Yolun ortasında beklemek"
+    ],
+    "answer": 0,
+    "explanation": "Arıza halinde görünürlük ve güvenli konumlandırma ikincil kazaları önlemeye yardımcı olur."
+  },
+  {
+    "id": 250,
+    "category": "Çevre, enerji ve acil araç uygulamaları",
+    "question": "Aşağıdaki ifadelerden hangisi doğru kabul edilir? araç arızası nedeniyle yol kenarında durulduğunda hangi önlem önemlidir?",
+    "options": [
+      "Uyarı vermeden onarım yapmak",
+      "Yolun ortasında beklemek",
+      "Uygun uyarı işaretlerini kullanıp güvenli mesafede beklemek",
+      "Aracın arkasında durmak"
+    ],
+    "answer": 2,
+    "explanation": "Arıza halinde görünürlük ve güvenli konumlandırma ikincil kazaları önlemeye yardımcı olur."
+  }
+]
